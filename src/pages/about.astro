@@ -17,6 +17,9 @@ const renderedEntries = await Promise.all(entries.map(async (entry) => ({
     <p class="subtitle">
       This page holds the public-facing brief: what the book is, who it is for, and what kind of voice it is trying to earn.
     </p>
+    <p>
+      <a class="text-link" href="/sources">View the reader-facing source companion</a>
+    </p>
 
     <section class="grid">
       {renderedEntries.map(({ entry, Content }) => (

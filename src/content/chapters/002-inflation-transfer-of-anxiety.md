@@ -112,7 +112,7 @@ Anxiety gets shipped downstream.
 
 A household needs a map before it needs a sermon. Under inflation, the first map is simple: what must be paid, what can move, what can wait, and what failure would break everything.
 
-Do not solve the whole household in the grocery aisle. Name the pressure, protect the essentials, and refuse panic.
+The grocery aisle is a bad place to solve the whole household. Name the pressure, protect the essentials, and refuse panic.
 
 The next chapter will do the harder work of the balance sheet. Here the point is narrower: inflation taxes attention as well as money, and any rule that reduces the attention-tax is a form of shelter.
 
@@ -272,6 +272,6 @@ You are not helpless. Conduct still matters.
 
 You are not alone. Others are doing the same math in different aisles.
 
-Inflation is a transfer of anxiety. The answer is to transfer discipline back upward and outward: upward, by demanding honesty from institutions and accountability from those with pricing power; outward, by building households and communities that are harder to frighten, harder to exploit, and harder to divide.
+Inflation is a transfer of anxiety. The reply is to transfer discipline back upward and outward: upward, by demanding honesty from institutions and accountability from those with pricing power; outward, by building households and communities that are harder to frighten, harder to exploit, and harder to divide.
 
 The grocery store is where inflation is felt. The household ledger is where the pressure either becomes a plan or becomes fog. Next comes the balance sheet: not as punishment, but as a map.

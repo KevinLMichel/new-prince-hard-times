@@ -16,9 +16,15 @@ Claim IDs: CL-003, CL-007, CL-019.
 - Federal contract and spending data: https://www.usaspending.gov/
 - Defense contract announcements: https://www.defense.gov/News/Contracts/
 - Congressional Research Service reports: https://crsreports.congress.gov/
-- UNHCR Global Trends: https://www.unhcr.org/globaltrends
+- UNHCR Global Trends: https://www.unhcr.org/global-trends
 - Department of Veterans Affairs data and services: https://www.va.gov/
-- CISA critical infrastructure resources: https://www.cisa.gov/critical-infrastructure
+- CISA critical infrastructure resources: https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience
+
+## Evidence Update - 2026-05-12
+
+- CL-019 can be marked `cross-checked` because federal spending records, public defense contract announcements, and CRS reporting support the public-audit claim.
+- CL-007 should remain `unchecked` until energy, sanctions, and active-conflict channels are narrowed or expanded with EIA/Treasury/sanctions source lanes.
+- CL-003 should be treated as `needs revision` unless revised to observable contract awards, procurement incentives, and public spending records. The chapter now avoids broad motive claims and uses accountability language.
 
 ## Volatile Claims To Re-Check
 

@@ -32,7 +32,7 @@ That is the narrow road.
 
 This final chapter should read less like a conclusion than a card kept in a wallet: short enough to remember, severe enough to use, humane enough to keep the reader from becoming what hard times reward.
 
-## Do not let fear appoint your leaders
+## When fear wants the chair
 
 Fear is information. It tells you something may be wrong. It sharpens the senses. It can wake a sleeping citizen.
 
@@ -42,15 +42,13 @@ When fear rules, people trade judgment for relief. They accept cruelty if it is 
 
 Hard times produce fear naturally. The demagogue does not create the wound. He studies it, names it selectively, and offers a weapon where a cure should be.
 
-The citizen must learn to pause before fear becomes obedience.
+The citizen's work is to pause before fear becomes obedience.
 
 Ask: Who wants me frightened? What do they want me to do while frightened? What facts are missing? Who benefits if I stop thinking and start reacting? What would courage look like here, not merely anger?
 
 This does not mean distrust every warning. Some warnings are true. Some dangers are real. But a free person does not hand the steering wheel to the loudest voice in the fire.
 
-Fear may knock.
-
-Do not let it govern.
+Fear may knock. It does not get the chair.
 
 ## Keep your accounts with reality
 
@@ -112,7 +110,7 @@ Know people who will tell you when you are wrong. Know people who will show up w
 
 Useful loyalty has duties.
 
-Do not disappear until you need help. Do not treat community as an emergency vending machine. Do not confuse online agreement with real trust. Do not demand sacrifice from people for whom you have made no sacrifice.
+Show up before you need help. Treat community as more than an emergency vending machine. Remember that online agreement is not real trust. Ask sacrifice only inside relationships where you have also carried weight.
 
 Start small. Return calls. Share tools. Watch children. Check on elders. Attend meetings. Pay debts. Tell the truth. Bring food. Remember names. Learn who is alone.
 

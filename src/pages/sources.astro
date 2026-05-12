@@ -1,0 +1,45 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { bookMeta } from "../lib/bookMeta";
+import { sourceGroups } from "../lib/sourceGroups";
+---
+
+<BaseLayout
+  title={`Sources | ${bookMeta.title}`}
+  description={`Reader-facing source map for ${bookMeta.title} by ${bookMeta.author}.`}
+>
+  <main>
+    <article class="reader">
+      <p class="eyebrow">Source companion</p>
+      <h1>Sources</h1>
+      <p class="reader-subtitle">Evidence lanes for the living manuscript.</p>
+      <p class="reader-dek">
+        This page gives readers a clean map of the public sources currently supporting the book's highest-risk themes. It is not a finished bibliography, a legal review, or an endnote apparatus. Internal claim ledgers and risk notes remain in the private repo while the manuscript moves toward final publication quality.
+      </p>
+      <div class="source-groups">
+        {
+          sourceGroups.map((group) => (
+            <section class="source-group" aria-label={group.heading}>
+              <div>
+                <p class="eyebrow">Evidence group</p>
+                <h2>{group.heading}</h2>
+                <p>{group.description}</p>
+              </div>
+              <div class="source-list">
+                {
+                  group.sources.map((source) => (
+                    <article class="source-card">
+                      <h3><a href={source.url}>{source.title}</a></h3>
+                      <p class="source-publisher">{source.publisher}</p>
+                      <p>{source.use}</p>
+                    </article>
+                  ))
+                }
+              </div>
+            </section>
+          ))
+        }
+      </div>
+    </article>
+  </main>
+</BaseLayout>

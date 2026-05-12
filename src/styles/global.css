@@ -425,6 +425,50 @@ main {
   gap: 16px;
 }
 
+.source-groups {
+  display: grid;
+  gap: 30px;
+  margin-top: 42px;
+}
+
+.source-group {
+  border-top: 1px solid var(--line);
+  padding-top: 26px;
+}
+
+.source-group h2 {
+  margin: 0 0 10px;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  line-height: 0.95;
+}
+
+.source-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.source-card {
+  border: 1px solid var(--line);
+  background: rgba(248, 239, 217, 0.72);
+  padding: 18px;
+}
+
+.source-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.25rem;
+  line-height: 1.1;
+}
+
+.source-publisher {
+  color: var(--rust-dark);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .site-footer {
   margin-top: 52px;
   border-top: 1px solid var(--line);

@@ -72,13 +72,11 @@ The same is true in households.
 
 A household that buys only what it needs for the next meal may be efficient in normal times and exposed in hard ones. A household with no spare medicine, no extra staples, no backup transportation plan, no copied documents, no working flashlight, no basic tools, and no neighborly ties has optimized itself into delicacy.
 
-The modern economy trained people to trust flow.
+The modern economy trained people to trust flow. Hard times reintroduce stock.
 
-Hard times teach stock.
+Stock is not hoarding, panic buying, or clearing shelves so others go without. That is fear pretending to be strategy.
 
-Not hoarding. Not panic buying. Not clearing shelves so others go without. That is fear pretending to be strategy.
-
-Stock means a modest reserve of what the household actually uses. Food that will be eaten. Medicine that is rotated. Batteries that fit real devices. Water for interruption. Copies of documents. Basic repair supplies. A little cash. A plan for cooking if power fails. A list of local alternatives when the usual source breaks.
+Stock means a modest reserve of what the household actually uses: food that will be eaten, medicine that is rotated, batteries that fit real devices, water for interruption, copies of documents, basic repair supplies, a little cash, a plan for cooking if power fails, and a list of local alternatives when the usual source breaks.
 
 A pantry is not nostalgia.
 
@@ -238,14 +236,6 @@ They know that resilience is not built by slogans, but by stocks, skills, relati
 
 The shelf will teach again. It always does.
 
-Let it find us less childish next time.
-
-Not panicked.
-
-Not smug.
-
-Not alone.
-
-With a working pantry, a local map, useful hands, and enough steadiness to leave something on the shelf for the next family.
+Let it find us less childish next time: with a working pantry, a local map, useful hands, and enough steadiness to leave something on the shelf for the next family.
 
 When shelves thin, rumor thickens. Shortage does not only test pantries; it tests whether frightened people can still tell the difference between an explanation and a target.

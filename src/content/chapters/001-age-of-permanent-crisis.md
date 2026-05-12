@@ -30,6 +30,14 @@ Wages do not stretch. Credentials do not guarantee security. Homes become assets
 
 This book begins from a colder premise: ordinary people are not confused because they are weak. They are exhausted because the systems around them have learned to extract from confusion.
 
+The contract of the book is simple: private discipline matters, but it is not a substitute for public justice. A household should keep its records, know its numbers, store what it uses, and become harder to panic. A country still has to ask why so many households live one missed shift, one medical bill, one rent increase, or one layoff away from collapse.
+
+Both truths must remain in the room.
+
+Systems matter and conduct matters. Accountability matters and scapegoating corrupts it. Defense can matter and war spending must still be audited. Compassion matters and logistics must still work. Hope matters and hope that refuses strategy becomes a narcotic.
+
+The method here is not comfort. It is the discipline of holding two thoughts at once until the cheap answer loses its charm.
+
 ## The first discipline is to see clearly
 
 Clear sight is not cynicism.
@@ -44,7 +52,7 @@ To see this is not to become bitter. Bitterness is easy. It asks nothing but rep
 
 The harder task is to become useful.
 
-## The citizen must become harder to handle
+## Becoming harder to handle
 
 Every age produces a type of citizen suited to its pressures.
 
