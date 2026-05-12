@@ -1,7 +1,10 @@
 ---
 title: "The Age of Permanent Crisis"
 subtitle: "The old bargain cracked. The citizen cannot afford to stay asleep."
+dek: "Crisis is no longer an interruption. It is the weather ordinary people are asked to live inside."
 order: 1
+part: "The Shock"
+tags: ["crisis", "citizenship", "power"]
 status: "draft"
 summary: "The opening chapter names the condition: crisis is no longer an interruption, but the weather ordinary people are asked to live inside."
 updated: 2026-05-12

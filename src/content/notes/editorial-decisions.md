@@ -12,6 +12,19 @@ status: "active"
 - The tone should be fierce without becoming sloppy, partisan, or conspiratorial.
 - Each chapter should eventually deliver a usable discipline, checklist, frame, or reader practice.
 - The first manuscript movement begins with felt crisis before explaining machinery.
+- The first full spine uses thirteen chapters grouped into four movements: The Shock, The Machinery, The Citizen's Discipline, and The Renewal.
+- Public chapter pages may show draft status and last-updated metadata, but repo-only notes remain out of primary navigation.
+
+## Chapter checklist
+
+Before a chapter moves beyond draft, confirm:
+
+- The chapter has a clear purpose in the book's argument.
+- The reader receives a practical discipline, question set, or usable frame.
+- Checkable claims have been added to the claim ledger.
+- The tone is fierce without becoming sloppy, partisan, or conspiratorial.
+- The chapter names incentives and systems before it names villains.
+- The ending gives the reader steadiness rather than mere outrage.
 
 ## Open questions
 

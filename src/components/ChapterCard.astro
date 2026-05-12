@@ -12,10 +12,11 @@ const slug = chapter.id.replace(/\.md$/, "");
 <article class="chapter-card">
   <div class="chapter-card__meta">
     <span>Chapter {chapter.data.order.toString().padStart(2, "0")}</span>
+    <span>{chapter.data.part}</span>
     <span class={`status status--${chapter.data.status}`}>{chapter.data.status}</span>
   </div>
   <h3><a href={`/chapters/${slug}`}>{chapter.data.title}</a></h3>
   {chapter.data.subtitle && <p class="chapter-card__subtitle">{chapter.data.subtitle}</p>}
-  <p>{chapter.data.summary}</p>
+  <p>{chapter.data.dek ?? chapter.data.summary}</p>
   <a class="text-link" href={`/chapters/${slug}`}>Read the working draft</a>
 </article>

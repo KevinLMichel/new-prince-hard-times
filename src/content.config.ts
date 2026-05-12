@@ -9,7 +9,10 @@ const chapters = defineCollection({
   schema: z.object({
     title: z.string(),
     subtitle: z.string().optional(),
+    dek: z.string().optional(),
     order: z.number(),
+    part: z.string(),
+    tags: z.array(z.string()).default([]),
     status: chapterStatus,
     summary: z.string(),
     updated: z.coerce.date()

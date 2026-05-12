@@ -5,6 +5,8 @@ import ChapterCard from "../components/ChapterCard.astro";
 
 const chapters = (await getCollection("chapters")).sort((a, b) => a.data.order - b.data.order);
 const draftCount = chapters.filter((chapter) => chapter.data.status === "draft").length;
+const outlineCount = chapters.filter((chapter) => chapter.data.status === "outline").length;
+const revisionCount = chapters.filter((chapter) => ["revision", "polished"].includes(chapter.data.status)).length;
 ---
 
 <BaseLayout
@@ -42,7 +44,26 @@ const draftCount = chapters.filter((chapter) => chapter.data.status === "draft")
       </div>
       <div class="panel">
         <p class="eyebrow">Progress</p>
-        <p>{chapters.length} chapter files seeded. {draftCount} currently marked draft.</p>
+        <p>{chapters.length} chapter files seeded. {draftCount} drafts, {outlineCount} outlines, {revisionCount} revised or polished.</p>
+      </div>
+    </section>
+
+    <section class="progress-panel" aria-label="Manuscript progress">
+      <div>
+        <span>{chapters.length}</span>
+        <small>Total chapters</small>
+      </div>
+      <div>
+        <span>{draftCount}</span>
+        <small>Drafts</small>
+      </div>
+      <div>
+        <span>{outlineCount}</span>
+        <small>Outlines</small>
+      </div>
+      <div>
+        <span>{revisionCount}</span>
+        <small>Revised / polished</small>
       </div>
     </section>
 
