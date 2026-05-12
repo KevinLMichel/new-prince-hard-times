@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import { bookMeta } from "../../lib/bookMeta";
 
 const chapters = (await getCollection("chapters")).sort((a, b) => a.data.order - b.data.order);
 const parts = [...new Set(chapters.map((chapter) => chapter.data.part))];
@@ -10,6 +11,9 @@ const parts = [...new Set(chapters.map((chapter) => chapter.data.part))];
   <main>
     <h1 class="page-title">Table of Contents</h1>
     <p class="subtitle">The manuscript is intentionally visible as a working structure. Status labels show where each chapter sits in the drafting cycle.</p>
+    <p>
+      <a class="button-link" href={bookMeta.pdfPath} download>{bookMeta.downloadLabel}</a>
+    </p>
 
     {parts.map((part) => (
       <section class="toc-list" aria-label={`${part} chapters`}>

@@ -116,6 +116,13 @@ nav {
   gap: 10px;
 }
 
+.footer-links,
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
 nav a,
 .button-link {
   border: 1px solid var(--ink);
@@ -429,6 +436,10 @@ main {
   margin: 0 0 6px;
 }
 
+.footer-links {
+  justify-content: flex-end;
+}
+
 @media (max-width: 780px) {
   .hero,
   .toc-row {
@@ -448,5 +459,9 @@ main {
 
   .toc-row {
     gap: 8px;
+  }
+
+  .footer-links {
+    justify-content: flex-start;
   }
 }

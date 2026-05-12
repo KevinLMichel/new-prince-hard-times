@@ -21,16 +21,20 @@ const revisionCount = chapters.filter((chapter) => ["revision", "polished"].incl
         <h1>The New Prince of Hard Times</h1>
         <p class="byline">By {bookMeta.author}</p>
         <p class="subtitle">
-          How to survive inflation, job loss, war, inequality, and the collapse of easy answers without surrendering your judgment, your neighbors, or your nerve.
+          {bookMeta.subtitle}
         </p>
-        <p>
+        <p class="hero-actions">
           <a class="button-link" href="/chapters">Enter the manuscript</a>
+          <a class="button-link" href={bookMeta.pdfPath} download>{bookMeta.downloadLabel}</a>
         </p>
       </div>
       <aside class="panel" aria-label="Book premise">
         <p class="manifesto-line">Everything may not be fine. Therefore become stronger, clearer, and more useful.</p>
         <p>
           This site is the working draft: chapter by chapter, pass by pass, with status markers left visible so the book can grow without pretending to be finished.
+        </p>
+        <p>
+          The downloadable PDF is a quiet revision edition for full-book reading, formatted as a 5.5 by 8.5 inch trade-book snapshot.
         </p>
       </aside>
     </section>

@@ -1,0 +1,72 @@
+---
+import { getCollection, render } from "astro:content";
+import PrintChapter from "../components/PrintChapter.astro";
+import { bookMeta } from "../lib/bookMeta";
+
+const chapters = (await getCollection("chapters")).sort((a, b) => a.data.order - b.data.order);
+const renderedChapters = await Promise.all(
+  chapters.map(async (chapter) => {
+    const { Content } = await render(chapter);
+    return {
+      chapter,
+      Content,
+      slug: chapter.id.replace(/\.md$/, "")
+    };
+  })
+);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="author" content={bookMeta.author} />
+    <meta name="description" content={`Print/PDF edition of ${bookMeta.title} by ${bookMeta.author}.`} />
+    <title>{bookMeta.title} | PDF Edition</title>
+  </head>
+  <body>
+    <section class="title-page" aria-label="Title page">
+      <div>
+        <p class="title-eyebrow">A field guide for hard times</p>
+        <h1>{bookMeta.title}</h1>
+        <p class="title-subtitle">{bookMeta.subtitle}</p>
+        <p class="title-author">Kevin L. Michel</p>
+      </div>
+    </section>
+
+    <section class="copyright-page" aria-label="Copyright page">
+      <p>{bookMeta.copyrightNotice}</p>
+      <p>{bookMeta.editionLabel}.</p>
+      <p>
+        This downloadable PDF is a reader edition of the living manuscript. It is not yet the final legally risk-reviewed or publication-polished edition.
+      </p>
+      <p>No ISBN, Library of Congress data, index, or formal bibliography is included in this edition.</p>
+    </section>
+
+    <nav class="toc-page" aria-label="Table of contents">
+      <h1>Contents</h1>
+      <ol>
+        {
+          renderedChapters.map(({ chapter, slug }) => (
+            <li>
+              <a href={`#${slug}`}>
+                <span class="toc-chapter">Chapter {chapter.data.order}</span>
+                <span class="toc-title">{chapter.data.title}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ol>
+    </nav>
+
+    <main class="book-body">
+      {
+        renderedChapters.map(({ chapter, slug, Content }) => (
+          <PrintChapter chapter={chapter} slug={slug} Content={Content} />
+        ))
+      }
+    </main>
+  </body>
+</html>

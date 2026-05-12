@@ -1,0 +1,277 @@
+@page {
+  size: 5.5in 8.5in;
+  margin: 0.62in 0.56in 0.72in;
+}
+
+@page :left {
+  margin-left: 0.72in;
+  margin-right: 0.56in;
+
+  @top-left {
+    content: "Kevin L. Michel";
+    font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
+    font-size: 8pt;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  @bottom-left {
+    content: counter(page);
+    font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
+    font-size: 9pt;
+  }
+}
+
+@page :right {
+  margin-left: 0.56in;
+  margin-right: 0.72in;
+
+  @top-right {
+    content: "The New Prince of Hard Times";
+    font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
+    font-size: 8pt;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  @bottom-right {
+    content: counter(page);
+    font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
+    font-size: 9pt;
+  }
+}
+
+@page front {
+  margin: 0.72in;
+
+  @top-left {
+    content: none;
+  }
+
+  @top-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+
+  @bottom-right {
+    content: none;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color: #171511;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 11pt;
+  line-height: 1.42;
+}
+
+body {
+  margin: 0;
+  background: #fffdf8;
+}
+
+h1,
+h2,
+h3,
+p,
+ol,
+ul,
+blockquote {
+  margin-top: 0;
+}
+
+.title-page,
+.copyright-page,
+.toc-page {
+  page: front;
+  break-after: page;
+}
+
+.title-page {
+  align-items: center;
+  display: flex;
+  min-height: 6.85in;
+  text-align: center;
+}
+
+.title-page h1 {
+  font-size: 34pt;
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  line-height: 0.95;
+  margin: 0.28in 0 0.18in;
+}
+
+.title-eyebrow,
+.title-author,
+.chapter-kicker,
+.toc-chapter {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.title-eyebrow {
+  font-size: 8.5pt;
+}
+
+.title-subtitle {
+  font-size: 12pt;
+  line-height: 1.45;
+  margin: 0 auto 0.42in;
+  max-width: 3.8in;
+}
+
+.title-author {
+  font-size: 10pt;
+  font-weight: 700;
+}
+
+.copyright-page {
+  font-size: 8.5pt;
+  line-height: 1.42;
+  padding-top: 4.7in;
+}
+
+.toc-page h1 {
+  font-size: 24pt;
+  margin-bottom: 0.32in;
+}
+
+.toc-page ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc-page li {
+  border-bottom: 0.5pt solid rgba(23, 21, 17, 0.18);
+  break-inside: avoid;
+  padding: 0.08in 0;
+}
+
+.toc-page a {
+  color: inherit;
+  display: grid;
+  gap: 0.12in;
+  grid-template-columns: 0.78in 1fr;
+  text-decoration: none;
+}
+
+.toc-page a::after {
+  content: leader(".") target-counter(attr(href), page);
+}
+
+.toc-title {
+  font-weight: 700;
+}
+
+.toc-chapter {
+  font-size: 7.8pt;
+}
+
+.book-body {
+  counter-reset: chapter;
+}
+
+.book-chapter {
+  break-before: right;
+  counter-increment: chapter;
+}
+
+.chapter-opener {
+  margin-bottom: 0.34in;
+  padding-top: 0.2in;
+}
+
+.chapter-kicker {
+  color: #6f2f21;
+  font-size: 8pt;
+  font-weight: 700;
+  margin-bottom: 0.14in;
+}
+
+.chapter-opener h1 {
+  font-size: 25pt;
+  letter-spacing: -0.035em;
+  line-height: 1;
+  margin-bottom: 0.12in;
+}
+
+.chapter-subtitle {
+  color: #513d2e;
+  font-size: 12pt;
+  font-style: italic;
+  line-height: 1.35;
+}
+
+.chapter-body {
+  orphans: 3;
+  widows: 3;
+}
+
+.chapter-body h2 {
+  break-after: avoid;
+  font-size: 15pt;
+  line-height: 1.12;
+  margin: 0.28in 0 0.11in;
+}
+
+.chapter-body p {
+  margin: 0 0 0.105in;
+}
+
+.chapter-body p + p {
+  text-indent: 0.16in;
+}
+
+.chapter-body h2 + p,
+.chapter-body blockquote + p,
+.chapter-body table + p,
+.chapter-body ul + p,
+.chapter-body ol + p {
+  text-indent: 0;
+}
+
+.chapter-body blockquote {
+  border-left: 3pt solid #9f432b;
+  font-size: 11.5pt;
+  margin: 0.18in 0;
+  padding: 0.02in 0 0.02in 0.16in;
+}
+
+.chapter-body ul,
+.chapter-body ol {
+  margin: 0 0 0.14in 0.22in;
+  padding: 0;
+}
+
+.chapter-body li {
+  margin-bottom: 0.05in;
+}
+
+.chapter-body table {
+  border-collapse: collapse;
+  font-size: 8pt;
+  margin: 0.16in 0;
+  width: 100%;
+}
+
+.chapter-body th,
+.chapter-body td {
+  border: 0.5pt solid rgba(23, 21, 17, 0.28);
+  padding: 0.04in;
+  vertical-align: top;
+}
+
+.chapter-body th {
+  background: #f2ead8;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
+}

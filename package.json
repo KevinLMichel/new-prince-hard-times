@@ -8,10 +8,14 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "book:pdf": "node scripts/build-pdf.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
     "astro": "^6.3.1"
+  },
+  "devDependencies": {
+    "@vivliostyle/cli": "^10.5.0"
   }
 }
