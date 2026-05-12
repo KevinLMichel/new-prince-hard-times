@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ChapterCard from "../components/ChapterCard.astro";
+import { bookMeta } from "../lib/bookMeta";
 
 const chapters = (await getCollection("chapters")).sort((a, b) => a.data.order - b.data.order);
 const draftCount = chapters.filter((chapter) => chapter.data.status === "draft").length;
@@ -10,14 +11,15 @@ const revisionCount = chapters.filter((chapter) => ["revision", "polished"].incl
 ---
 
 <BaseLayout
-  title="The New Prince of Hard Times"
-  description="A living manuscript about surviving inflation, job loss, war, inequality, and permanent crisis."
+  title={bookMeta.title}
+  description={bookMeta.description}
 >
   <main>
     <section class="hero">
       <div>
         <p class="eyebrow">A living field guide</p>
         <h1>The New Prince of Hard Times</h1>
+        <p class="byline">By {bookMeta.author}</p>
         <p class="subtitle">
           How to survive inflation, job loss, war, inequality, and the collapse of easy answers without surrendering your judgment, your neighbors, or your nerve.
         </p>

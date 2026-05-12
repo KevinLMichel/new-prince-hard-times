@@ -1,0 +1,23 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { bookMeta } from "../lib/bookMeta";
+---
+
+<BaseLayout title={`Copyright | ${bookMeta.title}`} description={bookMeta.copyrightNotice}>
+  <main>
+    <article class="reader">
+      <p class="eyebrow">Copyright notice</p>
+      <h1>{bookMeta.title}</h1>
+      <p class="reader-subtitle">By {bookMeta.author}</p>
+      <div class="reader-body">
+        <p><strong>{bookMeta.copyrightNotice}</strong></p>
+        <p>
+          This site presents a living manuscript in draft form. Text may be revised, expanded, corrected, or removed as the work develops. No part of this manuscript may be reproduced or distributed without permission, except as permitted by law.
+        </p>
+        <p>
+          This notice identifies the author and copyright owner for the manuscript. Formal copyright registration, if pursued, is a separate administrative step.
+        </p>
+      </div>
+    </article>
+  </main>
+</BaseLayout>

@@ -4,7 +4,7 @@ order: 1
 summary: "Core premise"
 ---
 
-`The New Prince of Hard Times` is a gritty, practical field guide for ordinary people living through inflation, layoffs, war, inequality, technological disruption, political theater, housing pressure, broken trust, and the age of permanent crisis.
+`The New Prince of Hard Times`, by Kevin L. Michel, is a gritty, practical field guide for ordinary people living through inflation, layoffs, war, inequality, technological disruption, political theater, housing pressure, broken trust, and the age of permanent crisis.
 
 It is not a book of despair.
 

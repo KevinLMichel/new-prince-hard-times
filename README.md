@@ -1,5 +1,9 @@
 # The New Prince of Hard Times
 
+By Kevin L. Michel
+
+The New Prince of Hard Times, Kevin L. Michel, Copyright © 2026 Kevin L. Michel. All rights reserved.
+
 A living manuscript website for `The New Prince of Hard Times`, built with Astro and Markdown content collections.
 
 ## Local Development

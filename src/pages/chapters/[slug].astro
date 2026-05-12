@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import { bookMeta } from "../../lib/bookMeta";
 
 export async function getStaticPaths() {
   const chapters = (await getCollection("chapters")).sort((a, b) => a.data.order - b.data.order);
@@ -20,7 +21,7 @@ const { Content } = await render(chapter);
 const currentChapterSlug = (entry: { id: string }) => entry.id.replace(/\.md$/, "");
 ---
 
-<BaseLayout title={`${chapter.data.title} | The New Prince of Hard Times`} description={chapter.data.summary}>
+<BaseLayout title={`${chapter.data.title} | ${bookMeta.title}`} description={chapter.data.summary}>
   <main>
     <article class="reader">
       <div class="reader-meta">
@@ -31,6 +32,7 @@ const currentChapterSlug = (entry: { id: string }) => entry.id.replace(/\.md$/, 
         <span>{minutes} min read</span>
       </div>
       <h1>{chapter.data.title}</h1>
+      <p class="byline">By {bookMeta.author}</p>
       {chapter.data.subtitle && <p class="reader-subtitle">{chapter.data.subtitle}</p>}
       {chapter.data.dek && <p class="reader-dek">{chapter.data.dek}</p>}
       <div class="reader-body">

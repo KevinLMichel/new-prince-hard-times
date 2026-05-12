@@ -177,6 +177,16 @@ main {
   line-height: 1.55;
 }
 
+.byline {
+  margin: 14px 0 0;
+  color: var(--rust-dark);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
 .eyebrow {
   color: var(--rust-dark);
   font-weight: 800;
@@ -413,6 +423,10 @@ main {
   border-top: 1px solid var(--line);
   padding-top: 18px;
   color: var(--ink-soft);
+}
+
+.site-footer p {
+  margin: 0 0 6px;
 }
 
 @media (max-width: 780px) {

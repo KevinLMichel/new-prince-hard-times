@@ -26,6 +26,26 @@ Before a chapter moves beyond draft, confirm:
 - The chapter names incentives and systems before it names villains.
 - The ending gives the reader steadiness rather than mere outrage.
 
+## First-draft completion checklist
+
+For each chapter completed in the first-draft push, confirm:
+
+- The chapter exposes a crisis without making despair the point.
+- The chapter names machinery before it names villains.
+- The chapter gives the reader at least one discipline, practice, map, or question set.
+- The chapter avoids hard numbers and current-event claims unless they are entered in the claim ledger.
+- The chapter uses real people and institutions only when the source path is clear.
+- The chapter ends with steadiness, not spectacle.
+
+## Revision pass sequence
+
+- Structural pass: confirm chapter order, argument flow, escalation, and repetition.
+- Voice pass: tighten cadence, remove sermon drift, vary sentence rhythm, and preserve trust.
+- Evidence pass: source claims, update volatile facts, and add facts-checked-through notes.
+- Risk pass: review named people, institutions, allegations, and high-risk phrasing.
+- Utility pass: strengthen practical disciplines and reader takeaways.
+- Line pass: polish style, remove clutter, and improve web readability.
+
 ## Open questions
 
 - Should the final book use direct citations in prose, endnotes, or a companion sources page?
