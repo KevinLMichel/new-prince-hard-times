@@ -1,0 +1,29 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const chapters = (await getCollection("chapters")).sort((a, b) => a.data.order - b.data.order);
+---
+
+<BaseLayout title="Chapters | The New Prince of Hard Times">
+  <main>
+    <h1 class="page-title">Table of Contents</h1>
+    <p class="subtitle">The manuscript is intentionally visible as a working structure. Status labels show where each chapter sits in the drafting cycle.</p>
+
+    <section class="toc-list" aria-label="Chapter list">
+      {chapters.map((chapter) => {
+        const slug = chapter.id.replace(/\.md$/, "");
+        return (
+          <a class="toc-row" href={`/chapters/${slug}`}>
+            <div class="toc-row__meta">Chapter {chapter.data.order.toString().padStart(2, "0")}</div>
+            <div>
+              <h2>{chapter.data.title}</h2>
+              <p>{chapter.data.summary}</p>
+            </div>
+            <span class={`status status--${chapter.data.status}`}>{chapter.data.status}</span>
+          </a>
+        );
+      })}
+    </section>
+  </main>
+</BaseLayout>

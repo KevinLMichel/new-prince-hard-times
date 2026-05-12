@@ -1,0 +1,32 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export async function getStaticPaths() {
+  const chapters = await getCollection("chapters");
+  return chapters.map((chapter) => ({
+    params: { slug: chapter.id.replace(/\.md$/, "") },
+    props: { chapter }
+  }));
+}
+
+const { chapter } = Astro.props;
+const { Content } = await render(chapter);
+---
+
+<BaseLayout title={`${chapter.data.title} | The New Prince of Hard Times`} description={chapter.data.summary}>
+  <main>
+    <article class="reader">
+      <div class="reader-meta">
+        <span>Chapter {chapter.data.order.toString().padStart(2, "0")}</span>
+        <span class={`status status--${chapter.data.status}`}>{chapter.data.status}</span>
+        <span>Updated {chapter.data.updated.toLocaleDateString("en-US")}</span>
+      </div>
+      <h1>{chapter.data.title}</h1>
+      {chapter.data.subtitle && <p class="reader-subtitle">{chapter.data.subtitle}</p>}
+      <div class="reader-body">
+        <Content />
+      </div>
+    </article>
+  </main>
+</BaseLayout>

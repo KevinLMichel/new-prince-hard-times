@@ -1,0 +1,31 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const entries = (await getCollection("brief")).sort((a, b) => a.data.order - b.data.order);
+const renderedEntries = await Promise.all(entries.map(async (entry) => ({
+  entry,
+  Content: (await render(entry)).Content
+})));
+---
+
+<BaseLayout title="About | The New Prince of Hard Times">
+  <main>
+    <h1 class="page-title">About the Book</h1>
+    <p class="subtitle">
+      This page holds the public-facing brief: what the book is, who it is for, and what kind of voice it is trying to earn.
+    </p>
+
+    <section class="grid">
+      {renderedEntries.map(({ entry, Content }) => (
+        <article class="brief-card">
+          <p class="eyebrow">{entry.data.summary}</p>
+          <h2>{entry.data.title}</h2>
+          <div class="reader-body">
+            <Content />
+          </div>
+        </article>
+      ))}
+    </section>
+  </main>
+</BaseLayout>

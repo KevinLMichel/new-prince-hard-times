@@ -1,0 +1,43 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "A living manuscript for The New Prince of Hard Times." } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="/">
+          <span class="brand-mark">NP</span>
+          <span>
+            <strong>The New Prince</strong>
+            <small>of Hard Times</small>
+          </span>
+        </a>
+        <nav aria-label="Primary navigation">
+          <a href="/">Home</a>
+          <a href="/chapters">Chapters</a>
+          <a href="/about">About</a>
+        </nav>
+      </header>
+      <slot />
+      <footer class="site-footer">
+        <p>Living manuscript. Drafted in the open, revised with receipts.</p>
+      </footer>
+    </div>
+  </body>
+</html>
