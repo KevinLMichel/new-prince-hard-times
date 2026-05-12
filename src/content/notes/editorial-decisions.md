@@ -46,6 +46,20 @@ For each chapter completed in the first-draft push, confirm:
 - Utility pass: strengthen practical disciplines and reader takeaways.
 - Line pass: polish style, remove clutter, and improve web readability.
 
+## Revision-to-final checklist
+
+For each chapter moving toward final form, confirm:
+
+- Chapter purpose: one sentence states the chapter's unique job in the book.
+- Handoff: the opening receives the prior chapter and the ending points naturally to the next one.
+- Field report: the chapter includes a lived scene, object, notice, room, shelf, receipt, or human exchange before major abstraction.
+- Practical discipline: the reader receives a durable tool, not only a slogan.
+- Claims logged: all public, economic, legal, causal, institutional, or named-actor claims are mapped in the claim ledger or source packet.
+- Source packet: the chapter has accepted source lanes and volatile claims marked for re-check.
+- Cadence check: repeated rhetorical structures have been cut, varied, or made intentional.
+- Tone check: fierce, useful, non-partisan, legally careful, and emotionally intelligent.
+- Ending: the final movement leaves steadiness rather than outrage alone.
+
 ## Open questions
 
 - Should the final book use direct citations in prose, endnotes, or a companion sources page?

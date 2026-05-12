@@ -5,7 +5,7 @@ dek: "The closing field manual gathers principles for judgment, dignity, attenti
 order: 13
 part: "The Renewal"
 tags: ["principles", "hope", "dignity", "field manual"]
-status: "draft"
+status: "revision"
 summary: "A closing chapter of practical principles for refusing denial, despair, cruelty, and manipulation."
 updated: 2026-05-12
 ---
@@ -29,6 +29,8 @@ Survival alone is too small. Rage alone is too cheap. Hope alone is too fragile.
 The task is to become harder to deceive, harder to exploit, harder to divide, and harder to defeat without becoming hard in the places where a human being must remain tender.
 
 That is the narrow road.
+
+This final chapter should read less like a conclusion than a card kept in a wallet: short enough to remember, severe enough to use, humane enough to keep the reader from becoming what hard times reward.
 
 ## Do not let fear appoint your leaders
 
@@ -144,35 +146,20 @@ There is dignity in unglamorous persistence.
 
 ## Rules for the next bad year
 
-Write your rules before the next bad year arrives.
+Write your rules before the next bad year arrives. Not a manifesto. A field card.
 
-Not a manifesto.
-
-A field card.
-
-Keep it somewhere visible. Ten lines at most.
-
-For example:
-
-I will not make major decisions while panicked.
-
-I will verify before I repeat.
-
-I will know my household numbers.
-
-I will protect children from adult despair.
-
-I will check on elders before crisis makes it urgent.
-
-I will keep one local institution in view.
-
-I will build skills before I need them.
-
-I will save documents, receipts, records, and names.
-
-I will not confuse cruelty with courage.
-
-I will stay useful.
+> **Field Card: Rules for the Next Bad Year**
+>
+> 1. Pause before panic; no major decision gets made at peak fear.
+> 2. Verify before repeating; rumor is unpaid labor for chaos.
+> 3. Know the household numbers: cash, debt, food, medicine, rent, dates.
+> 4. Protect children from adult despair; tell the truth without making them carry it.
+> 5. Check on elders before crisis makes it urgent.
+> 6. Keep documents, receipts, names, screenshots, and deadlines.
+> 7. Track one local institution and one local issue.
+> 8. Build one skill, reserve, or relationship before you need it.
+> 9. Refuse cruelty as proof of courage.
+> 10. Stay useful: make the call, bring the food, read the agenda, repair the trust.
 
 Make your own list. A household can make one. A group of friends can make one. A church, union, neighborhood, classroom, or small business can make one.
 
@@ -196,14 +183,6 @@ No empire lasts forever. No economy is innocent. No institution deserves trust i
 
 But decline is not destiny. Crisis is not character. Pressure reveals weakness, but it can also reveal courage that comfort kept hidden.
 
-The age may be hard.
-
-Become clearer.
-
-Become steadier.
-
-Become more useful.
-
-And when the merchants of fear arrive to sell you despair, do not buy it.
+The age may be hard. Become clearer, steadier, and more useful. When the merchants of fear arrive to sell despair, do not buy it.
 
 There is work to do.

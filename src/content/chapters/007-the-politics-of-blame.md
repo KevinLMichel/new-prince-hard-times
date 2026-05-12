@@ -5,7 +5,7 @@ dek: "Crisis creates a market for scapegoats, moral panic, conspiracy shortcuts,
 order: 7
 part: "The Machinery"
 tags: ["politics", "scapegoats", "media", "manipulation"]
-status: "draft"
+status: "revision"
 summary: "A chapter on recognizing manipulation, divide-and-rule tactics, and the cheap satisfaction of blame without strategy."
 updated: 2026-05-12
 ---
@@ -29,6 +29,8 @@ They point at a group and say: there. That is why your life hurts. That is why y
 The relief is immediate. A fog becomes a shape. A pressure becomes an enemy. Confusion becomes belonging.
 
 This is the politics of blame.
+
+You can watch it happen in a comment thread, a diner booth, a school-board meeting, a break room, or a call-in show. Someone names a real wound. Someone else supplies a villain before anyone has named the mechanism. Within minutes, pain has been organized into a chant.
 
 It is not always built from lies. That is what makes it dangerous. Sometimes the blamed institution deserves scrutiny. Sometimes the official explanation is insulting. Sometimes the people in charge really did fail. Sometimes money really did move upward while sacrifice moved downward. Sometimes citizens are not paranoid; they are noticing.
 
@@ -198,6 +200,14 @@ What would the accused say, and has anyone checked?
 
 Am I being made braver, or merely louder?
 
+Use the blame test:
+
+| Ask | Healthy answer | Dangerous answer |
+| --- | --- | --- |
+| What exactly happened? | A decision, incentive, or failure | A whole class of people |
+| What would repair it? | A policy, rule, vote, lawsuit, budget, resignation, or organizing target | Humiliation, revenge, or permanent contempt |
+| What evidence would change my mind? | Something specific | Nothing |
+
 A citizen should keep a private rule: no contempt as belonging. If the price of membership in a movement, party, class, church, union, audience, or online tribe is the daily performance of contempt, the group is not building strength. It is feeding on you.
 
 Refuse to let real pain be converted into cruelty.
@@ -237,3 +247,5 @@ Look carefully.
 Then act.
 
 The citizen must be angry enough to notice injustice and disciplined enough not to become a weapon in someone else's hand.
+
+A citizen who cannot be aimed is harder to exploit. But discipline alone is not enough. The next task is to become anchored among people who can still be counted on when fear tries to separate everyone.

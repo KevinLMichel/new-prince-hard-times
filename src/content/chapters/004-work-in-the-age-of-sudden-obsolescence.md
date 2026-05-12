@@ -5,7 +5,7 @@ dek: "Layoffs, automation, unstable schedules, credential inflation, and corpora
 order: 4
 part: "The Shock"
 tags: ["work", "layoffs", "skills", "labor"]
-status: "draft"
+status: "revision"
 summary: "A chapter on job loss, unstable work, automation pressure, and the practical discipline of becoming harder to discard."
 updated: 2026-05-12
 ---
@@ -17,6 +17,8 @@ A factory lost shifts before it closed. A profession changed over a generation. 
 Now work can disappear by email.
 
 A team call. A badge that stops working. A calendar emptied by someone else. A cheerful phrase from human resources. A severance document written in language clean enough to hide the blood. A worker who was praised on Monday becomes a line item by Friday.
+
+In the parking lot, the newly unemployed do not always move at first. They sit behind windshields with phones in their laps, rereading the email, deciding who must be told first and which bill has just become dangerous.
 
 This is not always cruelty. Sometimes businesses fail. Sometimes technology changes the work. Sometimes demand collapses. Sometimes a company really is trying to survive.
 
@@ -174,7 +176,13 @@ This is not paranoia.
 
 It is maintenance.
 
-The practical discipline is simple. Keep a current resume even when you are happy. Keep copies of performance reviews, certifications, licenses, and work records you are allowed to keep. Build relationships before you need favors. Learn one useful thing every quarter. Know the wage range for your role. Know which industries use your skills. Keep interview clothes or tools ready. Protect your health where possible. Do not let pride prevent a bridge job if the household needs income.
+Keep a private readiness file:
+
+- A current resume, even when you are happy.
+- Allowed copies of reviews, licenses, certifications, and work records.
+- Three examples of results: money saved, errors prevented, people trained, customers retained, systems improved.
+- A list of people who know your work before you need favors.
+- The wage range for your role and the adjacent roles your skills can reach.
 
 A worker should also keep a private list of trusted people: former supervisors, coworkers, customers, teachers, union contacts, recruiters, tradespeople, community leaders, and friends who know where work moves before job boards do.
 
@@ -228,4 +236,4 @@ Learn. Prepare. Translate your skills. Build relationships. Keep proof. Stay use
 
 A job can end.
 
-Your capacity must not.
+Your capacity must not. Capacity still needs room, though. The next pressure is the one that makes every future paycheck feel already claimed: debt, rent, and the price of breathing room.

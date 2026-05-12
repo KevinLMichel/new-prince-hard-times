@@ -5,7 +5,7 @@ dek: "Care work, schooling instability, eldercare, disability, grief, and family
 order: 11
 part: "The Citizen's Discipline"
 tags: ["care", "children", "elders", "family"]
-status: "draft"
+status: "revision"
 summary: "A chapter on the unpriced labor that keeps society functioning and the moral weight of protecting dependents under pressure."
 updated: 2026-05-12
 ---
@@ -73,6 +73,8 @@ A society that discards elders discards warning systems.
 This does not mean age makes everyone wise. Time can deepen bitterness as easily as judgment. But a culture that cannot listen across generations becomes trapped in the arrogance of the present. It mistakes novelty for intelligence. It believes every crisis is unprecedented because no one bothered to ask who had seen a version of it before.
 
 In the household, elders are often treated as a logistical problem: appointments, medications, stairs, meals, bills, transportation, supervision. Those needs are real. But beneath logistics is a moral test.
+
+A pill organizer on Sunday night can tell the whole story: morning tablets in one square, evening tablets in another, a handwritten pharmacy number, a daughter checking interactions on her phone, an elder pretending not to notice how tired she is. Love becomes a schedule. The schedule becomes infrastructure.
 
 Will we treat dependence as humiliation?
 
@@ -194,6 +196,6 @@ The repair begins when citizens stop treating dependence as an exception. Everyo
 
 To stay human in hard times, protect the people who cannot compete their way out of danger. Protect children from despair. Protect elders from erasure. Protect caregivers from collapse. Protect the household from becoming a place where fear makes law.
 
-The unpriced economy is not outside the real economy.
+The unpriced economy is not outside the real economy. It is the reason there is anything left to save.
 
-It is the reason there is anything left to save.
+Once the household can see its own hidden labor, the question becomes public: which local institutions protect that labor, and which quietly consume it?

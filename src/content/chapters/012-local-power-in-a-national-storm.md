@@ -5,7 +5,7 @@ dek: "City councils, school boards, tenant groups, mutual aid networks, co-ops, 
 order: 12
 part: "The Renewal"
 tags: ["local power", "civics", "organizing", "renewal"]
-status: "draft"
+status: "revision"
 summary: "A chapter that shifts from survival to usable civic agency at the local level."
 updated: 2026-05-12
 ---
@@ -21,6 +21,8 @@ This is why despair loves national scale. It makes the citizen feel microscopic.
 A person can watch leaders argue on screens for years and never touch the machinery. The spectacle is immense. The individual is made small. Outrage becomes a substitute for power because it is the only thing that seems available.
 
 But local life is where the hand can still reach the lever.
+
+The room is rarely heroic. It may be half-full, fluorescent, and too warm, with a microphone that cuts out and a stack of printed agendas no one on television will discuss. Still, this is where a bus route, a clinic grant, a zoning variance, a school policy, or a landlord's request becomes more than weather. It becomes a vote.
 
 Not every lever. Not enough levers. Not always cleanly. But more than the exhausted citizen thinks.
 
@@ -187,3 +189,5 @@ Hard times demand citizens who can look up and look near.
 Look up to understand the storm.
 
 Look near to fix the roof.
+
+A local operating picture tells you where the levers are. The final discipline is deciding what kind of person will reach for them when pressure rises.

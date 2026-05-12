@@ -5,7 +5,7 @@ dek: "A resilient household and neighborhood keep ordinary goods, skills, docume
 order: 6
 part: "The Machinery"
 tags: ["preparedness", "supply chains", "pantry", "resilience"]
-status: "draft"
+status: "revision"
 summary: "A chapter that makes preparedness normal: food, medicine, water, repair parts, documents, local substitutes, and mutual reliability."
 updated: 2026-05-12
 ---
@@ -16,7 +16,9 @@ For years, many people lived inside a miracle they barely noticed. Goods appeare
 
 Then the shelf went strange.
 
-Not always empty. Sometimes just thinner. Sometimes the brand was missing. Sometimes the price jumped. Sometimes the item existed online but not nearby. Sometimes a repair waited on a part. Sometimes a business apologized for delays it could not control. Sometimes a household discovered that the thing it needed was not made anywhere close, not stored anywhere close, and not guaranteed to arrive when promised.
+One week the usual brand was gone. The next week the cheaper one was gone too. The clerk shrugged because the clerk did not control the port, the distributor, the fuel price, the warehouse schedule, or the weather three states away. At the repair counter, a man held the broken pump in both hands while the technician explained that the part existed, yes, but not here, not soon, and not for the price anyone had expected.
+
+Sometimes the item existed online but not nearby. Sometimes a business apologized for delays it could not control. Sometimes a household discovered that the thing it needed was not made anywhere close, not stored anywhere close, and not guaranteed to arrive when promised.
 
 Modern life had built a long table.
 
@@ -212,6 +214,8 @@ None of this requires drama.
 
 Drama is usually the enemy of preparation.
 
+Do a 72-hour audit before imagining catastrophe. Can the household eat, drink, charge phones, light rooms, access medicine, find documents, contact help, and keep basic hygiene for three ordinary disrupted days? If not, fix the smallest failure first.
+
 The prepared household looks boring from the outside. It is simply harder to knock over.
 
 ## Abundance without amnesia
@@ -243,3 +247,5 @@ Not smug.
 Not alone.
 
 With a working pantry, a local map, useful hands, and enough steadiness to leave something on the shelf for the next family.
+
+When shelves thin, rumor thickens. Shortage does not only test pantries; it tests whether frightened people can still tell the difference between an explanation and a target.

@@ -5,7 +5,7 @@ dek: "Inflation is not only the loss of purchasing power. It is the relocation o
 order: 2
 part: "The Shock"
 tags: ["inflation", "household", "prices", "trust"]
-status: "draft"
+status: "revision"
 summary: "A full draft on how price pressure becomes household discipline, political anger, and a transfer of risk."
 updated: 2026-05-12
 ---
@@ -110,45 +110,11 @@ Anxiety gets shipped downstream.
 
 ## The discipline of the household
 
-There is no romance in household discipline.
+A household needs a map before it needs a sermon. Under inflation, the first map is simple: what must be paid, what can move, what can wait, and what failure would break everything.
 
-It is not a lifestyle brand. It is not a mood board. It is not a lecture from someone whose emergencies are sponsored by family money.
+Do not solve the whole household in the grocery aisle. Name the pressure, protect the essentials, and refuse panic.
 
-Household discipline is the plain work of keeping a roof over human beings while the outside world keeps changing the terms.
-
-In inflationary times, discipline does not mean panic. Panic is expensive. Panic buys too much, too late, at the wrong price. Panic signs bad contracts. Panic ignores maintenance until it becomes replacement. Panic falls for miracle investments and miracle side hustles. Panic confuses motion with control.
-
-Discipline is slower.
-
-Discipline starts with knowing the shape of the household.
-
-What must be paid?
-
-What can move?
-
-What can wait?
-
-What breaks everything if it fails?
-
-What small leak is becoming a flood?
-
-A household needs a map before it needs a sermon. Write down the fixed obligations. Write down the flexible ones. Write down the true essentials, not the imaginary essentials sold by advertising. Write down the debts by rate, balance, and consequence. Write down the irregular expenses that ambush the month: school fees, oil changes, prescriptions, birthdays, annual renewals, tires, uniforms, winter coats, holiday travel, copays, vet bills.
-
-The budget that fails is often not the one that forgot groceries.
-
-It is the one that forgot life happens.
-
-The first rule is to protect the essentials: food, shelter, utilities, transportation, medicine, basic communication, and the tools required to earn income. These are the beams. If the beams crack, the house goes.
-
-The second rule is to reduce exposure to surprise. Cook simple meals. Keep a modest pantry of items the household truly uses. Choose reliability over flash. Repair early. Read the bill before autopay turns neglect into policy.
-
-The third rule is to distrust monthly-payment thinking. A monthly payment can make anything look affordable while quietly eating the future. The question is not only, "Can I make the payment?" The question is, "What part of my future have I pledged, and what happens if one more thing goes wrong?"
-
-The fourth rule is to separate comfort from anesthesia. Comfort restores you. Anesthesia merely hides the wound. Hard times require comfort. They do not require self-destruction disguised as relief.
-
-The fifth rule is to make the household harder to exploit. Understand contracts before signing. Compare unit prices. Keep records. Ask for itemized bills. Negotiate when possible. Cancel what is not used. Learn basic repair. Share tools with trusted neighbors. Buy used when dignity allows, and dignity should allow more than advertising admits.
-
-There is strength in becoming less delicate.
+The next chapter will do the harder work of the balance sheet. Here the point is narrower: inflation taxes attention as well as money, and any rule that reduces the attention-tax is a form of shelter.
 
 ## Work, wages, and the price of time
 
@@ -306,22 +272,6 @@ You are not helpless. Conduct still matters.
 
 You are not alone. Others are doing the same math in different aisles.
 
-Inflation is a transfer of anxiety.
+Inflation is a transfer of anxiety. The answer is to transfer discipline back upward and outward: upward, by demanding honesty from institutions and accountability from those with pricing power; outward, by building households and communities that are harder to frighten, harder to exploit, and harder to divide.
 
-The answer is to transfer discipline back upward and outward: upward, by demanding honesty from institutions and accountability from those with pricing power; outward, by building households and communities that are harder to frighten, harder to exploit, and harder to divide.
-
-The grocery store is not just where inflation is felt.
-
-It is where citizenship begins again.
-
-Still, dinner must be made.
-
-Still, children must be taught.
-
-Still, debts must be faced.
-
-Still, neighbors must be known.
-
-Still, the truth must be spoken plainly.
-
-Hard times do not absolve us from responsibility. They clarify it.
+The grocery store is where inflation is felt. The household ledger is where the pressure either becomes a plan or becomes fog. Next comes the balance sheet: not as punishment, but as a map.

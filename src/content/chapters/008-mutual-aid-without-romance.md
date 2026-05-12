@@ -5,12 +5,14 @@ dek: "Neighbors, churches, unions, clubs, families, and informal networks can ke
 order: 8
 part: "The Citizen's Discipline"
 tags: ["mutual aid", "community", "trust", "local resilience"]
-status: "draft"
+status: "revision"
 summary: "A chapter on practical mutual aid, local trust, burnout, freeloading, conflict, and the discipline of repeated reliability."
 updated: 2026-05-12
 ---
 
 The first rescue is often small.
+
+The antidote to being aimed is being anchored.
 
 A ride to work when the car will not start. A casserole left on a porch after the funeral. A neighbor who knows which office actually answers the phone. A cousin who watches the children during a double shift. A church basement with folding tables, donated coats, bad coffee, and the quiet competence of people who have done this before.
 
@@ -232,6 +234,8 @@ There is an old dignity in being both giver and receiver. Hard times will put mo
 
 A healthy mutual-aid culture teaches people how to ask before disaster and how to give without possession.
 
+A useful mutual-aid group needs five plain rules: specific commitments, written contact lists, rotating work, private hardship kept private, and a way to say no before resentment becomes policy.
+
 ## The strength beside the household
 
 A household alone is a small fort.
@@ -277,3 +281,5 @@ Not in speeches.
 In repetitions.
 
 Community is not a slogan. It is the patient construction of people who can be counted on when the weather turns.
+
+The weather will not always be literal. Sometimes it will be war, fuel shocks, propaganda, veterans coming home changed, refugees arriving, or budgets bent around distant violence. The same question remains: who can still be counted on nearby?

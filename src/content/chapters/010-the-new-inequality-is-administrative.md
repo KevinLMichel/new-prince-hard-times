@@ -5,7 +5,7 @@ dek: "Modern inequality is enforced not only by wealth, but by paperwork, algori
 order: 10
 part: "The Citizen's Discipline"
 tags: ["inequality", "bureaucracy", "paperwork", "systems"]
-status: "draft"
+status: "revision"
 summary: "A chapter on navigating administrative gates and documenting everything without mistaking paperwork survival for justice."
 updated: 2026-05-12
 ---
@@ -33,6 +33,8 @@ Modern inequality is not only the distance between rich and poor.
 It is the difference between those who can pass through systems and those who are worn down by them.
 
 The new inequality is administrative.
+
+Here the Citizen's Discipline is not outrage at the gate. It is learning how the gate works without accepting that the gate is just. The citizen keeps records, names rules, finds allies, appeals denials, teaches the next person, and converts private humiliation into public knowledge.
 
 ## The invisible advantage
 
@@ -218,22 +220,10 @@ Winning the appeal is not the same as reform.
 
 The point is not to become a more efficient subject of bad systems. The point is to survive them long enough to change them, simplify them, expose them, and build institutions that do not treat exhaustion as proof of unworthiness.
 
-Until then, keep copies.
-
-Write dates.
-
-Ask names.
-
-Meet deadlines.
-
-Find allies.
-
-Do not disappear just because a system made you wait.
+Until then, keep copies, write dates, ask names, meet deadlines, and find allies. Do not disappear just because a system made you wait.
 
 The gate is often a form, a fee, a score, a login, or a rule nobody explains.
 
-Learn the gate.
+Learn the gate well enough to pass through it; then help tear down the parts that should never have been built.
 
-Pass through it.
-
-Then help tear down the parts that should never have been built.
+But every gate has a hidden clerk at home: the person keeping documents, arranging rides, translating letters, watching children, checking medicines, and absorbing the stress. Administrative inequality lands on the unpriced economy.

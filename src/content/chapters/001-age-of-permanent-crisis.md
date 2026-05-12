@@ -5,7 +5,7 @@ dek: "Crisis is no longer an interruption. It is the weather ordinary people are
 order: 1
 part: "The Shock"
 tags: ["crisis", "citizenship", "power"]
-status: "draft"
+status: "revision"
 summary: "The opening chapter names the condition: crisis is no longer an interruption, but the weather ordinary people are asked to live inside."
 updated: 2026-05-12
 ---
@@ -19,6 +19,8 @@ Each emergency arrived wearing the costume of an exception.
 Now the costume has fallen off.
 
 The crisis is not one event. It is the climate. It is the background pressure in the skull of the worker checking rent, the parent comparing cereal prices, the graduate entering a labor market that praises flexibility while withholding security, the nurse holding together a broken system with overtime and caffeine, the small business owner choosing which cost to absorb and which customer to disappoint.
+
+At 6:40 a.m., permanent crisis does not look like a theory. It looks like a kitchen light before dawn, a lunch packed smaller than last year, a phone face-down beside an unpaid bill, a car started with a prayer because the repair can wait only if the engine agrees.
 
 The old bargain was simple enough to understand, even when it was never equally available: work hard, learn the rules, keep your head down, and stability will eventually notice you.
 
@@ -78,4 +80,4 @@ This book is written for those who do not want to be softened into obedience or 
 
 Not everything will be fine.
 
-Therefore we begin.
+So we begin where permanent crisis first becomes undeniable: not in a speech, not in a chart, but at the register, when the same work buys less bread.

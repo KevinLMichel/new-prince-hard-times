@@ -5,22 +5,14 @@ dek: "War reaches households through prices, propaganda, veterans, refugees, bud
 order: 9
 part: "The Citizen's Discipline"
 tags: ["war", "propaganda", "energy", "veterans"]
-status: "draft"
+status: "revision"
 summary: "A chapter on the domestic second-order effects of war and the citizen's duty to ask who benefits, who pays, and what is being normalized."
 updated: 2026-05-12
 ---
 
 War does not have to reach your street to enter your house.
 
-It can arrive as a fuel bill.
-
-It can arrive as a cyberattack notice from a hospital, bank, school, pipeline, or city office.
-
-It can arrive as a veteran sitting too quietly in a waiting room while patriotic language fades behind him.
-
-It can arrive as a refugee child in a classroom, learning a new alphabet while adults argue about borders.
-
-It can arrive as a defense contract headline, a budget tradeoff, a shortage, a rumor, a surveillance power, a new suspicion of foreigners, a flag on a lapel, a speech about sacrifice delivered by people whose children will not be asked to make it.
+It can arrive as a fuel bill, a cyberattack notice from a hospital or city office, a veteran sitting too quietly in a waiting room, a refugee child learning a new alphabet, a defense-contract headline, a budget tradeoff, a surveillance power, and a speech about sacrifice delivered by people whose children will not be asked to make it.
 
 War is often imagined as something that happens over there until it happens here.
 
@@ -32,9 +24,9 @@ A serious citizen does not pretend danger is imaginary. Some threats are real. S
 
 But seriousness also means refusing to become drunk on war language.
 
-The citizen's duty is harder than cheering or sneering.
+The Citizen's Discipline begins here: keep consent sober.
 
-The duty is to ask who benefits, who pays, what is being defended, what is being normalized, and what bill will arrive when the speeches are over.
+Before you cheer, sneer, repost, enlist emotionally, or accept a new power as temporary, ask five questions: who benefits, who pays, what is being defended, what is being normalized, and what bill will arrive when the speeches are over?
 
 ## The invoice travels downward
 
@@ -224,8 +216,6 @@ Guard the household from panic.
 
 Guard the republic from those who discover, again and again, that fear is profitable.
 
-The serious citizen does not worship war.
+The serious citizen does not worship war. He does not pretend danger is fake. He keeps his head clear enough to know the difference between courage and appetite.
 
-The serious citizen does not pretend danger is fake.
-
-He keeps his head clear enough to know the difference between courage and appetite.
+The same discipline that audits war must now audit quieter gates. Fear sells emergency powers; bureaucracy sells inevitability.

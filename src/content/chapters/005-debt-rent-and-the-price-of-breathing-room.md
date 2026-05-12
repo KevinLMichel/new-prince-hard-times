@@ -5,7 +5,7 @@ dek: "Debt and housing costs narrow civic freedom by turning every future payche
 order: 5
 part: "The Machinery"
 tags: ["debt", "rent", "housing", "credit"]
-status: "draft"
+status: "revision"
 summary: "A chapter on how debt and rent compress household freedom, and how to rank obligations by danger rather than shame."
 updated: 2026-05-12
 ---
@@ -19,6 +19,8 @@ It sits on the kitchen counter in an envelope. It glows from a banking app. It a
 Debt and rent do not merely take money.
 
 They take breathing room.
+
+On the table are not abstractions. There is a lease renewal, a car note, a utility notice, a dental bill, and a phone showing the checking balance like bad weather. The household is not deciding between wisdom and foolishness. It is deciding which consequence arrives first.
 
 A household can endure hardship if it has space to maneuver. A little savings. A flexible bill. A landlord with patience. A car paid off. A family member nearby. A week before the next deadline. A room to absorb the hit.
 
@@ -212,6 +214,14 @@ Sixth: everything else.
 
 This ranking will not solve every problem, but it prevents panic from choosing badly. Panic pays the loudest bill. Strategy pays the most dangerous bill.
 
+Make a one-page threat sheet:
+
+| Obligation | What breaks if unpaid? | Deadline | Person to call | Proof to keep | Plan B |
+| --- | --- | --- | --- | --- | --- |
+| Rent | Shelter | 1st | Landlord / tenant office | Lease, receipts, emails | Assistance, mediation, family |
+| Car note | Income access | Due date | Lender | Statements, hardship request | Bus route, ride plan, refinance |
+| Utility | Heat, light, safety | Shutoff notice | Utility office | Notices, confirmations | Payment plan, aid office |
+
 The household should also know what happens if each obligation is missed. A missed utility bill is different from missed rent. A late credit card payment is different from a missed car payment if the car is the only route to work. A medical bill is different from a tax problem. A subscription is not a necessity because it has your card number.
 
 Call early when trouble is likely. Ask for hardship options. Get names, dates, confirmation numbers, and written follow-up. Do not promise what cannot be paid. Do not hide from letters. Do not confuse a collector's urgency with legal truth. Seek reputable counseling when the situation is complex.
@@ -247,3 +257,5 @@ And when the pressure exceeds private discipline, do not mistake that for privat
 The household needs breathing room.
 
 So does the republic.
+
+And breathing room must become material: a shelf, a medicine cabinet, a working light, a route to work, and enough steadiness not to panic when the usual system misses a step.
