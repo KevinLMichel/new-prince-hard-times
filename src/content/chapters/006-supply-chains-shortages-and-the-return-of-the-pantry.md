@@ -7,7 +7,7 @@ part: "The Machinery"
 tags: ["preparedness", "supply chains", "pantry", "resilience"]
 status: "revision"
 summary: "A chapter that makes preparedness normal: food, medicine, water, repair parts, documents, local substitutes, and mutual reliability."
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 The shelf taught a lesson the speech did not.
@@ -67,6 +67,18 @@ Then something goes wrong.
 A storm. A strike. A war. A port delay. A factory shutdown. A disease outbreak. A cyberattack. A fuel spike. A bad harvest. A regulatory change. A shortage of drivers, chips, glass, packaging, medicine, fertilizer, or skilled technicians.
 
 Suddenly redundancy looks less like waste and more like wisdom.
+
+> **Field Notes from Hard Times: East Palestine**
+>
+> A train leaves the national story of commerce and enters a town's lungs.
+>
+> That is what people forget about supply chains: they do not float above us. They pass behind schools, beside churches, near creeks, past kitchens where someone has just put a child to bed. In East Palestine, Ohio, a Norfolk Southern train derailed on February 3, 2023, carrying hazardous materials including vinyl chloride. The National Transportation Safety Board later found that a failed wheel bearing caused the derailment and said the vent-and-burn decision was based on incomplete and misleading information. EPA and the Justice Department later announced a settlement valued at more than $310 million for cleanup, monitoring, penalties, and related measures.
+>
+> Those are the institutional facts. The household fact is simpler and crueler: families had to ask whether the water, the air, the soil, and the official reassurance could be trusted.
+>
+> The supply chain had always passed through their lives. They just had not been asked to notice it until it broke open near their homes.
+>
+> This is the lesson: efficiency has addresses. The benefit of movement may be national; the risk often becomes local. A serious citizen asks not only whether goods arrive, but who lives beside the route, who bears the danger, who gets warned, and who has enough power to be believed afterward.
 
 The same is true in households.
 

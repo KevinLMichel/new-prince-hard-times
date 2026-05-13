@@ -14,6 +14,7 @@ status: "active"
 - The first manuscript movement begins with felt crisis before explaining machinery.
 - The first full spine uses thirteen chapters grouped into four movements: The Shock, The Machinery, The Citizen's Discipline, and The Renewal.
 - Public chapter pages may show draft status and last-updated metadata, but repo-only notes remain out of primary navigation.
+- Beginning with the May 13 revision pass, named "Field Notes from Hard Times" may be used as recurring chapter features. They should add place, person, pressure, mechanism, and lesson without turning the manuscript into a news digest.
 
 ## Chapter checklist
 

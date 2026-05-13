@@ -7,7 +7,7 @@ part: "The Shock"
 tags: ["work", "layoffs", "skills", "labor"]
 status: "revision"
 summary: "A chapter on job loss, unstable work, automation pressure, and the practical discipline of becoming harder to discard."
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 Work used to vanish slowly enough for a person to hear the floorboards creak.
@@ -111,6 +111,18 @@ Intelligent loyalty gives excellence without surrendering judgment. It does good
 The worker's duty is not betrayal.
 
 The worker's duty is readiness.
+
+> **Field Notes from Hard Times: The Stand-Up Strike**
+>
+> The stand-up strike understood something old: workers do not only have grievances. They have timing.
+>
+> In September 2023, the United Auto Workers launched a targeted strike against Ford, General Motors, and Stellantis. Not every plant at once. Not every card on the table. Pressure applied where pressure mattered, then expanded when the companies did not move far enough. Shawn Fain and the union used the phrase "record profits mean record contracts" because good labor language does what a good shop steward does: it connects the floor to the balance sheet.
+>
+> A strike is not noble simply because it is a strike. A union can be foolish. A company can face real constraints. Cars do not build themselves out of moral theater. But disciplined collective pressure is different from rage. It is leverage with a calendar.
+>
+> The worker alone must build proof, skill, savings, and options. But the worker alone is not the whole story. There are moments when dignity requires organization, when scattered fear has to become a line no spreadsheet can cross without cost.
+>
+> Hard times punish sentimentality. They also punish isolation. Solidarity is not a slogan if it can count, wait, strike, negotiate, and win.
 
 ## Build a portable life
 

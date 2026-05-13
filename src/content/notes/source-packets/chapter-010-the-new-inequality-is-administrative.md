@@ -5,11 +5,11 @@ summary: "Source lanes and claim map for paperwork, gates, benefit cliffs, and a
 status: "active"
 ---
 
-Facts checked through: 2026-05-12.
+Facts checked through: 2026-05-13.
 
 Revision status: source packet opened; claim mapping active; not final legal review.
 
-Claim IDs: CL-006, CL-020.
+Claim IDs: CL-006, CL-020, CL-027.
 
 ## Accepted Source Lanes
 
@@ -18,16 +18,21 @@ Claim IDs: CL-006, CL-020.
 - USAGov benefits finder and public navigation materials: https://www.usa.gov/benefit-finder
 - Agency benefit-program rules and public guidance where specific cliffs are discussed.
 - Legal aid and academic administrative-burden research for examples, with jurisdiction notes.
+- GAO FAFSA rollout reports and testimony: https://www.gao.gov/products/gao-24-107407
+- GAO Federal Student Aid oversight work: https://www.gao.gov/products/gao-24-107783
 
 ## Evidence Update - 2026-05-12
 
 - CL-006 can be marked `sourced` for the broad claim that credit checks, forms, fees, licensing, and health-care paperwork can shape access.
 - CL-020 can be marked `sourced` for the broad administrative-burden claim.
+- CL-027 supports the FAFSA Field Note.
 - Benefit-cliff language has been narrowed to "can" and "some programs and jurisdictions"; final publication needs program-specific thresholds before stronger wording.
+- Safe strong language for FAFSA: GAO found delays, technical problems, and application declines. Avoid claiming the rollout alone caused a specific student's lost enrollment without direct evidence.
 
 ## Volatile Claims To Re-Check
 
 - Benefit thresholds, eligibility rules, specific licensing rules, application fees, credit scoring rules, and algorithmic-screening examples.
+- FAFSA application counts, GAO updates, Department of Education corrective actions, and later aid-cycle performance.
 
 ## Risk Notes
 

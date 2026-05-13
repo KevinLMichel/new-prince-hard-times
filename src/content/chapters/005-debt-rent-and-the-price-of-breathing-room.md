@@ -7,7 +7,7 @@ part: "The Machinery"
 tags: ["debt", "rent", "housing", "credit"]
 status: "revision"
 summary: "A chapter on how debt and rent compress household freedom, and how to rank obligations by danger rather than shame."
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 There is a special kind of fear that lives inside a due date.
@@ -47,6 +47,22 @@ That is why rent has such power.
 Rent is not merely a payment for space. It is the price of remaining somewhere. Remaining near work. Remaining near school. Remaining near family. Remaining inside a district, a neighborhood, a commute, a routine, a fragile arrangement of care.
 
 When rent rises, the household does not simply compare apartments like products on a shelf. It compares futures. Move farther and lose time. Stay and lose cash. Downsize and lose privacy. Take roommates and lose control. Leave the neighborhood and lose the people who make survival possible.
+
+> **Field Notes from Hard Times: The Rent Notice**
+>
+> The notice does not look violent. That is part of its power. It arrives clean, polite, formatted, and final: your rent will rise.
+>
+> The apartment is the same. Same carpet. Same sink that drains slowly. Same parking lot light. Same upstairs neighbor. Same commute, same school route, same grocery store, same paycheck.
+>
+> Only the rent has changed.
+>
+> Somewhere behind the number may be a market survey, an owner target, a comparable unit, a property manager's spreadsheet, or an algorithmic recommendation. In 2024, the Justice Department sued RealPage, alleging that its rent-pricing software used nonpublic landlord data in ways that reduced competition and harmed renters. RealPage has denied that its software is unlawful. That legal sentence matters. So does the kitchen-table sentence: a household received a number from a machine-shaped market and had to answer with hours, distance, crowding, debt, or departure.
+>
+> I do not need every rent increase to be a conspiracy for the result to be severe. Shelter is already a pressure point. Software can make pressure colder. An owner can call it optimization. A tenant calls it the moment the last stable thing becomes unstable.
+>
+> The modern tenant may not be negotiating with a landlord. She may be negotiating with a data system, an institutional owner, and a pricing discipline designed to make refusal feel futile.
+>
+> The rent notice says the market has spoken. The citizen asks who taught the market what to say.
 
 The housing market often talks as if people are free-floating consumers.
 

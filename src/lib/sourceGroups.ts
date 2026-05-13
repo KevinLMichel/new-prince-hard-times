@@ -33,6 +33,93 @@ export const sourceGroups = [
         publisher: "U.S. Department of Housing and Urban Development",
         url: "https://www.huduser.gov/portal/",
         use: "Housing research, local housing context, and housing-policy background."
+      },
+      {
+        title: "USDA Economic Research Service",
+        publisher: "U.S. Department of Agriculture",
+        url: "https://www.ers.usda.gov/",
+        use: "Food prices, agricultural markets, and avian-flu context for the egg-price Field Note."
+      },
+      {
+        title: "Investor releases",
+        publisher: "Cal-Maine Foods",
+        url: "https://calmainefoods.gcs-web.com/",
+        use: "Company-reported selling-price and financial context for egg-market scrutiny."
+      }
+    ]
+  },
+  {
+    heading: "Chapter 4: work, bargaining power, and sudden obsolescence",
+    description:
+      "These sources support labor-market and workplace Field Notes, including the 2023 UAW stand-up strike. Company-specific labor claims need contract documents, filings, or official statements before final publication.",
+    sources: [
+      {
+        title: "UAW newsroom",
+        publisher: "United Auto Workers",
+        url: "https://uaw-newsroom.prgloo.com/",
+        use: "Strike chronology, union statements, ratification summaries, and contract claims attributed to the union."
+      },
+      {
+        title: "WARN Act compliance assistance",
+        publisher: "U.S. Department of Labor",
+        url: "https://www.dol.gov/agencies/eta/layoffs/warn",
+        use: "Federal notice-rule background for covered plant closings and mass layoffs."
+      },
+      {
+        title: "EDGAR company filings",
+        publisher: "U.S. Securities and Exchange Commission",
+        url: "https://www.sec.gov/edgar/search/",
+        use: "Company filings for restructuring, labor, risk-factor, and financial-context claims."
+      }
+    ]
+  },
+  {
+    heading: "Chapter 5: rent, debt, and algorithmic housing pressure",
+    description:
+      "These sources support the RealPage Field Note and broader housing-pressure claims. Active litigation should be described with allegation language unless final court records support stronger wording.",
+    sources: [
+      {
+        title: "U.S. and Plaintiff States v. RealPage Inc.",
+        publisher: "U.S. Department of Justice",
+        url: "https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc",
+        use: "Complaint, case materials, and litigation-status support for algorithmic rent-pricing claims."
+      },
+      {
+        title: "Justice Department RealPage announcement",
+        publisher: "U.S. Department of Justice",
+        url: "https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters",
+        use: "Reader-facing summary of DOJ allegations about RealPage and rent-pricing software."
+      },
+      {
+        title: "HUD User",
+        publisher: "U.S. Department of Housing and Urban Development",
+        url: "https://www.huduser.gov/portal/",
+        use: "Housing affordability and policy background."
+      }
+    ]
+  },
+  {
+    heading: "Chapter 6: supply chains and East Palestine",
+    description:
+      "These sources support the East Palestine Field Note and the chapter's argument that supply chains are physical systems with local risk.",
+    sources: [
+      {
+        title: "East Palestine derailment findings",
+        publisher: "National Transportation Safety Board",
+        url: "https://www.ntsb.gov/news/press-releases/Pages/NR20240625.aspx",
+        use: "Official findings on cause and the vent-and-burn decision."
+      },
+      {
+        title: "Norfolk Southern East Palestine settlement",
+        publisher: "U.S. Environmental Protection Agency",
+        url: "https://www.epa.gov/newsreleases/united-states-reaches-over-310-million-settlement-norfolk-southern-address-harms",
+        use: "EPA/DOJ settlement summary, cleanup, monitoring, penalties, and related measures."
+      },
+      {
+        title: "Ready.gov",
+        publisher: "Federal Emergency Management Agency",
+        url: "https://www.ready.gov/",
+        use: "Household preparedness and continuity basics."
       }
     ]
   },
@@ -126,6 +213,18 @@ export const sourceGroups = [
         publisher: "U.S. Department of Housing and Urban Development",
         url: "https://www.huduser.gov/portal/",
         use: "Housing access, affordability, and local housing data."
+      },
+      {
+        title: "FAFSA rollout report",
+        publisher: "U.S. Government Accountability Office",
+        url: "https://www.gao.gov/products/gao-24-107407",
+        use: "GAO findings on FAFSA rollout delay, technical problems, and applicant effects."
+      },
+      {
+        title: "Federal Student Aid oversight",
+        publisher: "U.S. Government Accountability Office",
+        url: "https://www.gao.gov/products/gao-24-107783",
+        use: "GAO oversight context for Federal Student Aid systems and implementation risk."
       }
     ]
   },

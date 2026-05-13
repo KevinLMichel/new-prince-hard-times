@@ -7,7 +7,7 @@ part: "The Shock"
 tags: ["inflation", "household", "prices", "trust"]
 status: "revision"
 summary: "A full draft on how price pressure becomes household discipline, political anger, and a transfer of risk."
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 Inflation does not arrive like a thief in a mask.
@@ -55,6 +55,20 @@ But most working households are not failing because they forgot how to count. Th
 Inflation turns ordinary life into a series of small defenses.
 
 You defend breakfast from the price of eggs. You defend dinner from the price of meat. You defend the commute from the price of fuel. You defend your dignity from the feeling that every basic need has become a negotiation.
+
+> **Field Notes from Hard Times: The Egg Aisle**
+>
+> I have watched people stand in front of eggs as if they were reading bad news from a doctor. Not luxury eggs. Not some boutique carton with a pasture printed on it. Ordinary eggs. The kind that used to sit quietly in the budget and ask for nothing.
+>
+> A hand reaches, stops, compares, retreats. The face does not change much. That is how you know the embarrassment is real.
+>
+> Behind the carton sat a real shock: highly pathogenic avian influenza cut into laying flocks, inventories tightened, feed and transport costs mattered, and wholesale prices moved violently. USDA tracked the disease and the price pressure. Cal-Maine, the largest U.S. shell egg producer, told investors that fiscal 2023 brought extreme market conditions and significantly higher average selling prices, primarily tied to avian flu and input costs. Senators Elizabeth Warren and Katie Porter pressed the company with the harder question ordinary people already felt in the aisle: when crisis gives a firm pricing power, where does necessity end and opportunity begin?
+>
+> Do not flatten this into a cartoon. Disease killed birds. Trucks need fuel. Workers need pay. But do not make innocence out of complexity either. A crisis can begin in nature and end in a margin.
+>
+> Inflation humiliates by making adults negotiate with breakfast. A nation can survive expensive eggs. What it cannot survive forever is the private suspicion that ordinary competence no longer works.
+>
+> The first rule is to tell the truth cleanly: this is pressure, not personal failure.
 
 A full shelf does not mean affordability.
 

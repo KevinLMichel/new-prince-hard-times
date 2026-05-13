@@ -25,6 +25,25 @@ Before a chapter advances beyond draft, confirm:
 - Emotional intelligence: the chapter gives steadiness rather than mere outrage.
 - Cadence reduction: the voice is sharp but not mechanical; repeated rhetorical forms have been rationed.
 
+## Field Notes from Hard Times
+
+Use recurring Field Notes to give the moral architecture a body. They should feel like the author has stopped pointing at the map and taken the reader to the room, aisle, notice, platform, meeting, or counter where the machinery touches a life.
+
+Default structure:
+
+- Place: where the pressure becomes visible.
+- Person: who has to absorb it.
+- Pressure: what changed, broke, rose, vanished, or failed.
+- Mechanism: the institution, company, rule, algorithm, market, or public system behind the pressure.
+- Lesson: the discipline the reader should carry forward.
+
+Rules:
+
+- One scene, one mechanism, one wound, one command.
+- Begin with an object or place whenever possible: carton, rent notice, smoke plume, error message, picket sign, portal, pill box, receipt.
+- Named institutions and public figures are welcome when sourced; use attribution for allegations, active litigation, or contested claims.
+- Do not turn Field Notes into news digests. They should make the chapter's existing argument felt, not prove the author has read the newspaper.
+
 ## Cadence Watchlist
 
 Cut or vary repeated forms unless they are doing deliberate structural work:

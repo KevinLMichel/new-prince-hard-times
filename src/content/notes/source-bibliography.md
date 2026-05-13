@@ -18,6 +18,20 @@ This bibliography is a starting map, not a finished citation apparatus.
 - U.S. Census Household Pulse Survey: https://www.census.gov/programs-surveys/household-pulse-survey/data.html
 - CFPB data and research: https://www.consumerfinance.gov/data-research/
 - HUD User: https://www.huduser.gov/portal/
+- USDA ERS egg-price / avian-flu resources: https://www.ers.usda.gov/
+- Cal-Maine Foods investor releases: https://calmainefoods.gcs-web.com/
+- Sen. Warren public release on egg-price scrutiny: https://www.warren.senate.gov/newsroom/press-releases/warren-calls-on-top-five-egg-producers-to-explain-recent-egg-price-hikes
+
+## Work, housing, administrative gates, and supply-chain field notes
+
+- UAW official newsroom: https://uaw-newsroom.prgloo.com/
+- DOJ RealPage case page: https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc
+- DOJ RealPage press release: https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters
+- NTSB East Palestine derailment press release: https://www.ntsb.gov/news/press-releases/Pages/NR20240625.aspx
+- EPA/DOJ Norfolk Southern East Palestine settlement release: https://www.epa.gov/newsreleases/united-states-reaches-over-310-million-settlement-norfolk-southern-address-harms
+- GAO FAFSA rollout report: https://www.gao.gov/products/gao-24-107407
+- GAO Federal Student Aid oversight report: https://www.gao.gov/products/gao-24-107783
+- GAO FAFSA later review: https://www.gao.gov/products/gao-25-107396
 
 ## Resilience, administrative access, and local government
 

@@ -7,7 +7,7 @@ part: "The Citizen's Discipline"
 tags: ["inequality", "bureaucracy", "paperwork", "systems"]
 status: "revision"
 summary: "A chapter on navigating administrative gates and documenting everything without mistaking paperwork survival for justice."
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 The gate is often boring.
@@ -87,6 +87,20 @@ The body experiences it as attrition.
 Administrative burden is not neutral when time, literacy, health, transportation, and internet access are unequal.
 
 A form can be a wall.
+
+> **Field Notes from Hard Times: FAFSA**
+>
+> A student can do everything right and still meet a broken form.
+>
+> Study, apply, wait, refresh, call, upload, correct, wait again. The promise is simple: aid for education. The experience can become a maze of accounts, signatures, missing data, delayed answers, and parents trying to remember tax details while a deadline walks toward the family.
+>
+> The simplified FAFSA was supposed to make federal student aid easier. GAO later found that the 2024-25 rollout was delayed by about three months, hit by technical problems, and contributed to a drop in first-time applicants, with sharper declines among lower-income students. That is not a small administrative embarrassment. That is opportunity rationed by malfunction.
+>
+> No one has to stand at the schoolhouse door anymore if the portal can fail quietly enough.
+>
+> This is administrative inequality in its purest form: the door says opportunity, the hinge says error. The family with time, fluency, broadband, documents, and a calm adult nearby keeps pushing. The family already stretched thin may read the confusion as a verdict.
+>
+> It is not a verdict. It is a gate failing in public.
 
 ## Sorting machines
 
