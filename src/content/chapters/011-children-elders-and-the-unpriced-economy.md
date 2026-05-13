@@ -7,7 +7,7 @@ part: "The Citizen's Discipline"
 tags: ["care", "children", "elders", "family"]
 status: "revision"
 summary: "A chapter on the unpriced labor that keeps society functioning and the moral weight of protecting dependents under pressure."
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 A country can measure a factory closing. It can measure a stock price falling. It can measure the cost of a barrel of oil, the yield on a bond, the wages on a payroll, the rent on an apartment, the sale of a house.
@@ -74,7 +74,15 @@ This does not mean age makes everyone wise. Time can deepen bitterness as easily
 
 In the household, elders are often treated as a logistical problem: appointments, medications, stairs, meals, bills, transportation, supervision. Those needs are real. But beneath logistics is a moral test.
 
-A pill organizer on Sunday night can tell the whole story: morning tablets in one square, evening tablets in another, a handwritten pharmacy number, a daughter checking interactions on her phone, an elder pretending not to notice how tired she is. Love becomes a schedule. The schedule becomes infrastructure.
+> **Field Notes from Hard Times: The Pill Organizer**
+>
+> On Sunday night, the plastic box comes out. Morning tablets in one square, evening tablets in another. A handwritten pharmacy number. A daughter checking interactions on her phone. An elder pretending not to notice how tired she is.
+>
+> Nobody in the room calls it infrastructure.
+>
+> They call it making sure he does not miss the blood pressure pill. They call it calling the doctor again because the refill disappeared between the pharmacy, the portal, and the insurance plan. They call it taking the afternoon off and hoping the supervisor understands one more time.
+>
+> Love becomes a schedule. The schedule becomes infrastructure. When that infrastructure breaks, the market discovers what the family had been carrying for free.
 
 Will we treat dependence as humiliation?
 

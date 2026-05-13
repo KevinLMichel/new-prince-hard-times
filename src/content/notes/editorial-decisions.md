@@ -15,6 +15,7 @@ status: "active"
 - The first full spine uses thirteen chapters grouped into four movements: The Shock, The Machinery, The Citizen's Discipline, and The Renewal.
 - Public chapter pages may show draft status and last-updated metadata, but repo-only notes remain out of primary navigation.
 - Beginning with the May 13 revision pass, named "Field Notes from Hard Times" may be used as recurring chapter features. They should add place, person, pressure, mechanism, and lesson without turning the manuscript into a news digest.
+- Personal authorial material may be used as witness, not memoir. It should locate Kevin L. Michel honestly, sharpen a reader discipline, and return attention to the reader's agency rather than making the author the hero.
 
 ## Chapter checklist
 

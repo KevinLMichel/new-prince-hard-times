@@ -7,7 +7,7 @@ part: "The Shock"
 tags: ["crisis", "citizenship", "power"]
 status: "revision"
 summary: "The opening chapter names the condition: crisis is no longer an interruption, but the weather ordinary people are asked to live inside."
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 There was a time, not so long ago, when crisis still pretended to be temporary.
@@ -37,6 +37,10 @@ Both truths must remain in the room.
 Systems matter and conduct matters. Accountability matters and scapegoating corrupts it. Defense can matter and war spending must still be audited. Compassion matters and logistics must still work. Hope matters and hope that refuses strategy becomes a narcotic.
 
 The method here is not comfort. It is the discipline of holding two thoughts at once until the cheap answer loses its charm.
+
+I write that partly because I know the danger of the single answer in my own life. There are years when an ordinary schedule can begin to feel like a verdict: clock in, perform competence, carry frustration home, and pretend the smaller version of yourself is maturity. I do not offer that as tragedy. Millions know harder stories. I offer it as location. A field guide should tell you where the guide is standing.
+
+I began writing because I wanted to pass forward what I wish someone had handed me earlier: not a promise that effort conquers all circumstances, and not a theory that circumstances excuse every surrender. A harder truth: the system is real, and so are the small degrees of agency that become a different life if they are repeated long enough.
 
 ## The first discipline is to see clearly
 

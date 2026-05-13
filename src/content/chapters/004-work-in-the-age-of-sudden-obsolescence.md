@@ -132,6 +132,12 @@ Roots matter. Family matters. Place matters. Reputation matters. Local knowledge
 
 The goal is to carry enough capacity inside yourself that one lost employer cannot erase you.
 
+I know the feeling of a job becoming too small for the life inside it. From the outside, it can look respectable enough: hours, title, routine, a place to be, a person to become for the day. Inside, another question keeps returning: is this work building me, or only using me?
+
+That question is not a command to quit. Recklessness is not courage. Bills are real. Family obligations are real. Health insurance, rent, car payments, debt, and children do not vanish because the soul gets restless on a Tuesday afternoon.
+
+But the question still matters. A worker who never asks it may slowly mistake an employer's current use for the full boundary of his capacity. Frustration then becomes either poison or material. Poison complains and repeats. Material gets shaped into skill, proof, writing, training, contacts, savings, experiments, and a plan.
+
 A portable worker knows what he can do, who can verify it, where else it applies, and what proof he can show. She does not rely only on a title. Titles belong to companies. Skills belong to people.
 
 The question is not, "What is my job?"

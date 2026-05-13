@@ -7,7 +7,7 @@ part: "The Renewal"
 tags: ["principles", "hope", "dignity", "field manual"]
 status: "revision"
 summary: "A closing chapter of practical principles for refusing denial, despair, cruelty, and manipulation."
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 A bad book lies at the end.
@@ -127,6 +127,10 @@ Practice strategic hope.
 Strategic hope does not require optimism.
 
 It requires motion.
+
+The mistake is to measure motion only by dramatic rescue. A hard year rarely turns because someone discovers a grand answer. More often, it turns because one person refuses one lie, makes one call, pays one dangerous bill before one easier bill, stops one rumor, learns one skill, apologizes one day earlier, attends one meeting, writes down one name, or protects one child from adult panic.
+
+I have come to trust the small turn. Not because it is glamorous. Because repeated small turns change destinations. One percent is not enough for a slogan. It is enough for a beginning.
 
 It says: I do not know if this will work, but I know decay wins if no one acts.
 

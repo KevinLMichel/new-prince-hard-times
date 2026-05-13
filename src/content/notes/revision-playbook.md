@@ -44,6 +44,18 @@ Rules:
 - Named institutions and public figures are welcome when sourced; use attribution for allegations, active litigation, or contested claims.
 - Do not turn Field Notes into news digests. They should make the chapter's existing argument felt, not prove the author has read the newspaper.
 
+## Authorial Witness
+
+Use personal material to make the book more human, not narrower. The author can enter the room when his experience gives the reader a clearer discipline: leaving the 9-to-5 mindset, learning from aviation course correction, studying how habits and attention shape behavior, or recognizing the difference between real constraint and learned surrender.
+
+Rules:
+
+- Keep "I" brief, concrete, and accountable.
+- Do not universalize one life into advice for every reader.
+- Do not romanticize risk, quitting, poverty, pressure, or crisis.
+- Pair every personal disclosure with a reader-facing lesson.
+- Prefer "I know this feeling" over "I am the example."
+
 ## Cadence Watchlist
 
 Cut or vary repeated forms unless they are doing deliberate structural work:

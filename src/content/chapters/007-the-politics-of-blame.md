@@ -7,7 +7,7 @@ part: "The Machinery"
 tags: ["politics", "scapegoats", "media", "manipulation"]
 status: "revision"
 summary: "A chapter on recognizing manipulation, divide-and-rule tactics, and the cheap satisfaction of blame without strategy."
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 Pain wants a face.
@@ -139,6 +139,10 @@ Much of the machinery is not hidden.
 It is protected by boredom.
 
 The citizen must learn to study the boring parts.
+
+The boring parts matter because the mind is not only persuaded by arguments. It is trained by repetition. A person can begin the day with ordinary worries and end it with a borrowed hatred because the same images, phrases, enemies, jokes, warnings, and humiliations have been fed into the background processor all day.
+
+That is why attention is not a soft subject. It is formation. What repeatedly enters a life quietly teaches that life what to notice, what to fear, what to excuse, and whom to blame. In hard times, the person who does not guard attention may wake up one morning carrying somebody else's enemy list as if it were conscience.
 
 ## The attention merchants
 

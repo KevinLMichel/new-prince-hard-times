@@ -7,7 +7,7 @@ part: "The Shock"
 tags: ["household", "budgeting", "debt", "resilience"]
 status: "revision"
 summary: "A practical chapter on household cash-flow pressure, fixed costs, fragile income, debt exposure, emergency liquidity, and discipline without shame."
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 A household does not fall all at once.
@@ -268,6 +268,8 @@ Hard times can make every month feel like a separate emergency. But the househol
 One move per month can change the direction of a household.
 
 Not instantly. Not dramatically. But direction matters.
+
+I trust small corrections because aviation teaches a hard respect for tiny errors. A course can be off by what looks like nothing at the beginning and end somewhere entirely different after enough distance. The household works the same way. One unmade call, one ignored fee, one forgotten renewal, one purchase made to avoid a feeling can become a destination. So can one paid-down balance, one protected cash envelope, one honest conversation, one bill moved before it becomes a threat.
 
 A household does not need to become rich to become less fragile. It needs margin, clarity, and fewer traps.
 
