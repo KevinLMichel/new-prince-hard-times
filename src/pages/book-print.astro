@@ -37,12 +37,19 @@ const renderedChapters = await Promise.all(
     </section>
 
     <section class="copyright-page" aria-label="Copyright page">
-      <p>{bookMeta.copyrightNotice}</p>
-      <p>{bookMeta.editionLabel}.</p>
+      <p><strong>{bookMeta.title}</strong></p>
+      <p>Copyright © 2026 Kevin L. Michel.</p>
+      <p>All rights reserved.</p>
       <p>
-        This downloadable PDF is a reader edition of the living manuscript. It is not yet the final legally risk-reviewed or publication-polished edition.
+        No part of this publication may be reproduced, distributed, transmitted, stored in a retrieval system, or used in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior written permission from the copyright owner, except as permitted by law.
       </p>
-      <p>No ISBN, Library of Congress data, index, or formal bibliography is included in this edition.</p>
+      <p>
+        This book is provided for informational and educational purposes only. It does not constitute legal, financial, tax, medical, investment, employment, or other professional advice. Readers should consult qualified professionals for advice regarding their own circumstances.
+      </p>
+      <p>
+        References to public figures, companies, institutions, government offices, products, services, and events are used for commentary, criticism, education, and discussion. All trademarks and trade names are the property of their respective owners.
+      </p>
+      <p>Printed in the United States of America.</p>
     </section>
 
     <nav class="toc-page" aria-label="Table of contents">
@@ -51,10 +58,10 @@ const renderedChapters = await Promise.all(
         {
           renderedChapters.map(({ chapter, slug }) => (
             <li>
-              <a href={`#${slug}`}>
+              <div class="toc-entry" data-target={`#${slug}`}>
                 <span class="toc-chapter">Chapter {chapter.data.order}</span>
                 <span class="toc-title">{chapter.data.title}</span>
-              </a>
+              </div>
             </li>
           ))
         }

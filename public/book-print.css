@@ -181,7 +181,11 @@ blockquote {
 .copyright-page {
   font-size: 8.5pt;
   line-height: 1.42;
-  padding-top: 4.7in;
+  padding-top: 0.1in;
+}
+
+.copyright-page p {
+  margin-bottom: 0.14in;
 }
 
 .toc-page h1 {
@@ -201,16 +205,14 @@ blockquote {
   padding: 0.08in 0;
 }
 
-.toc-page a {
-  color: inherit;
+.toc-entry {
   display: grid;
   gap: 0.12in;
   grid-template-columns: 0.78in minmax(0, 1fr) 0.28in;
-  text-decoration: none;
 }
 
-.toc-page a::after {
-  content: target-counter(attr(href), page);
+.toc-entry::after {
+  content: target-counter(attr(data-target url), page);
   font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
   font-size: 8.5pt;
   font-weight: 700;
