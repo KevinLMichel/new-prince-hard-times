@@ -28,7 +28,7 @@ const currentChapterSlug = (entry: { id: string }) => entry.id.replace(/\.md$/, 
         <span>Chapter {chapter.data.order.toString().padStart(2, "0")}</span>
         <span>{chapter.data.part}</span>
         <span class={`status status--${chapter.data.status}`}>{chapter.data.status}</span>
-        <span>Updated {chapter.data.updated.toLocaleDateString("en-US")}</span>
+        <span>Updated <time datetime={chapter.data.updated.toISOString()}>{chapter.data.updated.toLocaleDateString("en-US")}</time></span>
         <span>{minutes} min read</span>
       </div>
       <h1>{chapter.data.title}</h1>
@@ -41,8 +41,18 @@ const currentChapterSlug = (entry: { id: string }) => entry.id.replace(/\.md$/, 
       <nav class="chapter-nav" aria-label="Chapter navigation">
         <a class="button-link" href="/chapters">Back to chapters</a>
         <div>
-          {previousChapter && <a class="text-link" href={`/chapters/${currentChapterSlug(previousChapter)}`}>Previous: {previousChapter.data.title}</a>}
-          {nextChapter && <a class="text-link" href={`/chapters/${currentChapterSlug(nextChapter)}`}>Next: {nextChapter.data.title}</a>}
+          {previousChapter && (
+            <a class="chapter-nav-card" href={`/chapters/${currentChapterSlug(previousChapter)}`}>
+              <span>Previous chapter</span>
+              <strong>{previousChapter.data.title}</strong>
+            </a>
+          )}
+          {nextChapter && (
+            <a class="chapter-nav-card" href={`/chapters/${currentChapterSlug(nextChapter)}`}>
+              <span>Next chapter</span>
+              <strong>{nextChapter.data.title}</strong>
+            </a>
+          )}
         </div>
       </nav>
     </article>

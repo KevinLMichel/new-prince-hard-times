@@ -1,3 +1,43 @@
+@font-face {
+  font-display: swap;
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/source-serif-4/source-serif-4-latin-400-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Source Serif 4";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/fonts/source-serif-4/source-serif-4-latin-400-italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/source-serif-4/source-serif-4-latin-700-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/source-sans-3/source-sans-3-latin-400-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/source-sans-3/source-sans-3-latin-700-normal.woff2") format("woff2");
+}
+
 :root {
   --ink: #191713;
   --ink-soft: #4e463a;
@@ -19,7 +59,7 @@
 html {
   background: #211d18;
   color: var(--ink);
-  font-family: "Iowan Old Style", Georgia, serif;
+  font-family: "Source Serif 4", "Iowan Old Style", Georgia, serif;
 }
 
 body {
@@ -96,8 +136,9 @@ nav a,
 .eyebrow,
 .status,
 .text-link,
-.button-link {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+.button-link,
+.chapter-nav-card span {
+  font-family: "Source Sans 3", "Arial Narrow", Arial, sans-serif;
 }
 
 .brand strong,
@@ -187,7 +228,7 @@ main {
 .byline {
   margin: 14px 0 0;
   color: var(--rust-dark);
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "Source Sans 3", "Arial Narrow", Arial, sans-serif;
   font-size: 1rem;
   font-weight: 800;
   letter-spacing: 0.12em;
@@ -233,7 +274,7 @@ main {
 .progress-panel span,
 .progress-panel small {
   display: block;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "Source Sans 3", "Arial Narrow", Arial, sans-serif;
   text-transform: uppercase;
 }
 
@@ -260,7 +301,7 @@ main {
   align-items: center;
   gap: 10px;
   color: var(--ink-soft);
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "Source Sans 3", "Arial Narrow", Arial, sans-serif;
   font-size: 0.82rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -371,7 +412,9 @@ main {
 }
 
 .reader h1 {
-  font-size: clamp(2.8rem, 7vw, 5.8rem);
+  font-size: clamp(2.35rem, 5.8vw, 4.85rem);
+  letter-spacing: -0.045em;
+  line-height: 0.95;
 }
 
 .reader-subtitle {
@@ -389,8 +432,13 @@ main {
 
 .reader-body {
   margin-top: 38px;
-  font-size: clamp(1.08rem, 2vw, 1.24rem);
-  line-height: 1.76;
+  max-width: 66ch;
+  font-size: clamp(1.06rem, 1.25vw, 1.15rem);
+  line-height: 1.74;
+}
+
+.reader-body p {
+  margin: 0 0 1.08em;
 }
 
 .reader-body h2 {
@@ -423,6 +471,30 @@ main {
   flex-wrap: wrap;
   justify-content: flex-end;
   gap: 16px;
+}
+
+.chapter-nav-card {
+  display: block;
+  max-width: 280px;
+  border: 1px solid var(--line);
+  background: rgba(248, 239, 217, 0.62);
+  padding: 12px 14px;
+  text-decoration: none;
+}
+
+.chapter-nav-card span {
+  display: block;
+  color: var(--ink-soft);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.chapter-nav-card strong {
+  display: block;
+  margin-top: 4px;
+  line-height: 1.1;
 }
 
 .source-groups {
@@ -463,7 +535,7 @@ main {
 
 .source-publisher {
   color: var(--rust-dark);
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "Source Sans 3", "Arial Narrow", Arial, sans-serif;
   font-size: 0.82rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -505,7 +577,63 @@ main {
     gap: 8px;
   }
 
+  .site-header nav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: 100%;
+  }
+
+  .site-header nav a {
+    padding: 10px 8px;
+    text-align: center;
+  }
+
+  .reader {
+    overflow: hidden;
+    padding: 24px 18px;
+    box-shadow: 7px 8px 0 var(--shadow);
+  }
+
+  .reader h1 {
+    font-size: clamp(2.2rem, 12vw, 3.8rem);
+  }
+
+  .reader-body {
+    font-size: 1.05rem;
+    line-height: 1.7;
+  }
+
+  .reader h1,
+  .reader-subtitle,
+  .reader-dek,
+  .reader-body {
+    overflow-wrap: anywhere;
+  }
+
+  .chapter-nav div {
+    justify-content: flex-start;
+  }
+
+  .chapter-nav-card {
+    max-width: none;
+    width: 100%;
+  }
+
   .footer-links {
     justify-content: flex-start;
+  }
+}
+
+@media (min-width: 880px) {
+  .reader-body p {
+    hyphens: auto;
+    text-align: justify;
+    text-align-last: left;
+  }
+
+  .reader-body blockquote p,
+  .reader-body li,
+  .reader-body table {
+    text-align: left;
   }
 }

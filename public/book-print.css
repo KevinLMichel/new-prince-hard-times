@@ -1,43 +1,183 @@
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/source-serif-4/source-serif-4-latin-400-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: italic;
+  font-weight: 400;
+  src: url("./fonts/source-serif-4/source-serif-4-latin-400-italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/source-serif-4/source-serif-4-latin-700-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/source-sans-3/source-sans-3-latin-400-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/source-sans-3/source-sans-3-latin-700-normal.woff2") format("woff2");
+}
+
 @page {
   size: 5.5in 8.5in;
-  margin: 0.62in 0.56in 0.72in;
+  margin: 0.66in 0.56in 0.72in;
 }
 
 @page :left {
-  margin-left: 0.72in;
-  margin-right: 0.56in;
+  margin-left: 0.56in;
+  margin-right: 0.74in;
 
   @top-left {
     content: "Kevin L. Michel";
-    font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
-    font-size: 8pt;
-    letter-spacing: 0.08em;
+    color: #4f4a40;
+    font-family: "Source Sans 3", "Arial Narrow", sans-serif;
+    font-size: 7.5pt;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
   }
 
   @bottom-left {
     content: counter(page);
-    font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
-    font-size: 9pt;
+    color: #4f4a40;
+    font-family: "Source Sans 3", "Arial Narrow", sans-serif;
+    font-size: 8.5pt;
   }
 }
 
 @page :right {
-  margin-left: 0.56in;
-  margin-right: 0.72in;
+  margin-left: 0.74in;
+  margin-right: 0.56in;
 
   @top-right {
     content: "The New Prince of Hard Times";
-    font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
-    font-size: 8pt;
-    letter-spacing: 0.08em;
+    color: #4f4a40;
+    font-family: "Source Sans 3", "Arial Narrow", sans-serif;
+    font-size: 7.5pt;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
   }
 
   @bottom-right {
     content: counter(page);
-    font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
-    font-size: 9pt;
+    color: #4f4a40;
+    font-family: "Source Sans 3", "Arial Narrow", sans-serif;
+    font-size: 8.5pt;
+  }
+}
+
+@page :blank {
+  @top-left {
+    content: none;
+  }
+
+  @top-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+
+  @bottom-right {
+    content: none;
+  }
+}
+
+@page chapter {
+  size: 5.5in 8.5in;
+  margin: 0.66in 0.56in 0.72in;
+}
+
+@page chapter:left {
+  margin-left: 0.56in;
+  margin-right: 0.74in;
+
+  @top-left {
+    content: "Kevin L. Michel";
+    color: #4f4a40;
+    font-family: "Source Sans 3", "Arial Narrow", sans-serif;
+    font-size: 7.5pt;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  @bottom-left {
+    content: counter(page);
+    color: #4f4a40;
+    font-family: "Source Sans 3", "Arial Narrow", sans-serif;
+    font-size: 8.5pt;
+  }
+}
+
+@page chapter:right {
+  margin-left: 0.74in;
+  margin-right: 0.56in;
+
+  @top-right {
+    content: "The New Prince of Hard Times";
+    color: #4f4a40;
+    font-family: "Source Sans 3", "Arial Narrow", sans-serif;
+    font-size: 7.5pt;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  @bottom-right {
+    content: counter(page);
+    color: #4f4a40;
+    font-family: "Source Sans 3", "Arial Narrow", sans-serif;
+    font-size: 8.5pt;
+  }
+}
+
+@page chapter:first {
+  @top-left {
+    content: none;
+  }
+
+  @top-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+
+  @bottom-right {
+    content: none;
+  }
+}
+
+@page chapter:blank {
+  @top-left {
+    content: none;
+  }
+
+  @top-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+
+  @bottom-right {
+    content: none;
   }
 }
 
@@ -107,14 +247,14 @@
 
 html {
   color: #171511;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 11pt;
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-size: 10.5pt;
   line-height: 1.42;
 }
 
 body {
   margin: 0;
-  background: #fffdf8;
+  background: #fff;
 }
 
 h1,
@@ -157,7 +297,7 @@ blockquote {
 .title-author,
 .chapter-kicker,
 .toc-chapter {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
+  font-family: "Source Sans 3", "Arial Narrow", sans-serif;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -200,20 +340,20 @@ blockquote {
 }
 
 .toc-page li {
-  border-bottom: 0.5pt solid rgba(23, 21, 17, 0.18);
+  border-bottom: 0.75pt solid rgba(23, 21, 17, 0.18);
   break-inside: avoid;
   padding: 0.08in 0;
 }
 
 .toc-entry {
   display: grid;
-  gap: 0.12in;
-  grid-template-columns: 0.78in minmax(0, 1fr) 0.28in;
+  gap: 0.1in;
+  grid-template-columns: 0.78in minmax(0, 1fr) 0.36in;
 }
 
 .toc-entry::after {
   content: target-counter(attr(data-target url), page);
-  font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
+  font-family: "Source Sans 3", "Arial Narrow", sans-serif;
   font-size: 8.5pt;
   font-weight: 700;
   text-align: right;
@@ -235,52 +375,57 @@ blockquote {
 .book-chapter {
   break-before: right;
   counter-increment: chapter;
+  page: chapter;
 }
 
 .chapter-opener {
-  margin-bottom: 0.34in;
-  padding-top: 0.2in;
+  margin-bottom: 0.38in;
+  padding-top: 0.62in;
 }
 
 .chapter-kicker {
   color: #6f2f21;
-  font-size: 8pt;
+  font-size: 7.8pt;
   font-weight: 700;
   margin-bottom: 0.14in;
 }
 
 .chapter-opener h1 {
-  font-size: 25pt;
-  letter-spacing: -0.035em;
-  line-height: 1;
+  font-size: 22.5pt;
+  letter-spacing: -0.025em;
+  line-height: 1.04;
   margin-bottom: 0.12in;
 }
 
 .chapter-subtitle {
   color: #513d2e;
-  font-size: 12pt;
+  font-size: 10.8pt;
   font-style: italic;
   line-height: 1.35;
 }
 
 .chapter-body {
+  hyphens: auto;
   orphans: 3;
+  text-align: justify;
+  text-align-last: left;
   widows: 3;
 }
 
 .chapter-body h2 {
   break-after: avoid;
-  font-size: 15pt;
+  font-size: 13.5pt;
   line-height: 1.12;
-  margin: 0.28in 0 0.11in;
+  margin: 0.3in 0 0.11in;
+  text-align: left;
 }
 
 .chapter-body p {
-  margin: 0 0 0.105in;
+  margin: 0;
 }
 
 .chapter-body p + p {
-  text-indent: 0.16in;
+  text-indent: 0.2in;
 }
 
 .chapter-body h2 + p,
@@ -292,16 +437,30 @@ blockquote {
 }
 
 .chapter-body blockquote {
-  border-left: 3pt solid #9f432b;
-  font-size: 11.5pt;
-  margin: 0.18in 0;
-  padding: 0.02in 0 0.02in 0.16in;
+  border-bottom: 0.75pt solid rgba(23, 21, 17, 0.34);
+  border-top: 0.75pt solid rgba(23, 21, 17, 0.34);
+  font-size: 10pt;
+  font-style: italic;
+  line-height: 1.38;
+  margin: 0.18in 0.2in;
+  padding: 0.08in 0;
+  text-align: left;
+}
+
+.chapter-body blockquote p {
+  text-indent: 0;
+}
+
+.chapter-body blockquote p + p {
+  margin-top: 0.08in;
+  text-indent: 0;
 }
 
 .chapter-body ul,
 .chapter-body ol {
   margin: 0 0 0.14in 0.22in;
   padding: 0;
+  text-align: left;
 }
 
 .chapter-body li {
@@ -310,19 +469,19 @@ blockquote {
 
 .chapter-body table {
   border-collapse: collapse;
-  font-size: 8pt;
+  font-size: 7.8pt;
   margin: 0.16in 0;
+  text-align: left;
   width: 100%;
 }
 
 .chapter-body th,
 .chapter-body td {
-  border: 0.5pt solid rgba(23, 21, 17, 0.28);
+  border: 0.75pt solid rgba(23, 21, 17, 0.42);
   padding: 0.04in;
   vertical-align: top;
 }
 
 .chapter-body th {
-  background: #f2ead8;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
+  font-family: "Source Sans 3", "Arial Narrow", sans-serif;
 }
