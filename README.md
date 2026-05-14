@@ -29,6 +29,16 @@ npm run book:pdf
 
 The script builds the hidden `/book-print` route, creates `public/downloads/the-new-prince-hard-times-kevin-l-michel.pdf`, and rebuilds the static site so `dist/downloads/` contains the committed PDF asset.
 
+## Paperback Cover Export
+
+Generate the KDP full-wrap paperback cover PDF at release milestones:
+
+```sh
+npm run book:cover
+```
+
+The script builds the hidden `/cover-print` route and creates `production/covers/output/the-new-prince-hard-times-cover-wrap.pdf`. Cover assets are release files, not public site downloads, until the book reaches publication-candidate status.
+
 ## Render Static Site
 
 - Build command: `npm install && npm run build`

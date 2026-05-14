@@ -1,0 +1,73 @@
+---
+import { readFileSync } from "node:fs";
+import { resolve } from "node:path";
+
+const coverCss = readFileSync(resolve(process.cwd(), "public", "book-cover.css"), "utf-8");
+const title = "The New Prince of Hard Times";
+const subtitle =
+  "How to survive inflation, job loss, war, inequality, and the collapse of easy answers.";
+const author = "Kevin L. Michel";
+const backPitch = [
+  "Inflation. Layoffs. Rent pressure. War. Administrative gates. Political theater. Broken trust.",
+  "The New Prince of Hard Times is a field guide for ordinary people living through an age that no longer feels temporary.",
+  "It does not promise that everything will be fine. It begins from a harder truth: everything may not be fine, and that is precisely why citizens must become clearer, steadier, more disciplined, and harder to deceive.",
+  "Kevin L. Michel writes for workers, parents, tenants, students, caregivers, small business owners, and anyone who feels the squeeze but refuses to become bitter.",
+  "Survival is not enough. Become harder to exploit, harder to divide, harder to frighten, and harder to defeat."
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content={`Full-wrap KDP cover for ${title} by ${author}.`}
+    />
+    <title>{title} | Paperback Cover</title>
+    <style is:global set:html={coverCss}></style>
+  </head>
+  <body>
+    <main class="cover-sheet" aria-label={`Full paperback cover for ${title}`}>
+      <section class="back-cover" aria-label="Back cover">
+        <p class="kicker">A field guide for hard times</p>
+        <h2>For people who feel squeezed but refuse to become bitter.</h2>
+        <div class="back-rule"></div>
+        <div class="back-copy">
+          {backPitch.map((paragraph) => <p>{paragraph}</p>)}
+        </div>
+        <p class="back-footer">Private discipline. Public justice. Local courage.</p>
+      </section>
+
+      <section class="spine" aria-label="Book spine">
+        <div class="spine-text">
+          <span>{title}</span>
+          <span>{author}</span>
+        </div>
+      </section>
+
+      <section class="front-cover" aria-label="Front cover">
+        <div class="front-kicker">A field guide for hard times</div>
+        <svg class="civic-seal" viewBox="0 0 160 160" role="img" aria-label="Broken crown civic seal">
+          <circle cx="80" cy="80" r="73" />
+          <path class="seal-ring" d="M32 102h96" />
+          <path class="crown" d="M38 92l12-48 26 32 18-40 22 40 24-32 10 48z" />
+          <path class="crack" d="M82 38l-8 28 12 8-14 32" />
+          <path class="tool" d="M45 116h70" />
+        </svg>
+        <h1>
+          <span>The New</span>
+          <strong>Prince</strong>
+          <span>of Hard</span>
+          <span>Times</span>
+        </h1>
+        <p class="cover-subtitle">{subtitle}</p>
+        <p class="author">{author}</p>
+      </section>
+
+      <div class="barcode-reserve" aria-hidden="true"></div>
+    </main>
+  </body>
+</html>

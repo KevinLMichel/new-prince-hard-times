@@ -9,6 +9,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "book:pdf": "node scripts/build-pdf.mjs",
+    "book:cover": "node scripts/build-cover.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
