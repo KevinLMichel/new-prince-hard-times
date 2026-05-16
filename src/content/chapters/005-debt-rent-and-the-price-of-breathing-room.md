@@ -3,7 +3,7 @@ title: "Debt, Rent, and the Price of Breathing Room"
 subtitle: "The most expensive thing in hard times is having no room to maneuver."
 dek: "Debt and housing costs narrow civic freedom by turning every future paycheck into contested territory."
 order: 5
-part: "The Machinery"
+part: "Part II - Fortify the Household"
 tags: ["debt", "rent", "housing", "credit"]
 status: "revision"
 summary: "A chapter on how debt and rent compress household freedom, and how to rank obligations by danger rather than shame."
@@ -56,7 +56,7 @@ When rent rises, the household does not simply compare apartments like products 
 >
 > Only the rent has changed.
 >
-> Somewhere behind the number may be a market survey, an owner target, a comparable unit, a property manager's spreadsheet, or an algorithmic recommendation. In 2024, the Justice Department sued RealPage, alleging that its rent-pricing software used nonpublic landlord data in ways that reduced competition and harmed renters. RealPage has denied that its software is unlawful. That legal sentence matters. So does the kitchen-table sentence: a household received a number from a machine-shaped market and had to answer with hours, distance, crowding, debt, or departure.
+> Somewhere behind the number may be a market survey, an owner target, a comparable unit, a property manager's spreadsheet, or an algorithmic recommendation. In 2024, the Justice Department sued RealPage, alleging that its rent-pricing software used nonpublic landlord data in ways that reduced competition and harmed renters. RealPage has denied that its software is unlawful. That legal sentence matters. So does the kitchen-table sentence: a household received a number from a machine-shaped market and had to answer with hours, distance, crowding, debt, or departure.<sup class="note-marker">[5.1]</sup>
 >
 > I do not need every rent increase to be a conspiracy for the result to be severe. Shelter is already a pressure point. Software can make pressure colder. An owner can call it optimization. A tenant calls it the moment the last stable thing becomes unstable.
 >
@@ -309,3 +309,17 @@ The household needs breathing room.
 So does the republic.
 
 And breathing room must become material: a shelf, a medicine cabinet, a working light, a route to work, and enough steadiness not to panic when the usual system misses a step.
+
+## Field Guide: Breathing-Room Budget
+
+**Recognize the pressure:** debt and rent become dangerous when every future dollar is already claimed before it arrives.
+
+**Questions to ask:** What payment can take the roof, car, utilities, health, or legal safety first? What obligation is high-interest? What is image, and what is stability?
+
+**Documents/tools to gather:** lease, rent notices, debt balances, interest rates, minimum payments, credit reports, utility bills, medical bills, legal-aid contacts, and call logs.
+
+**One move this week:** rank debts and housing threats by consequence, not emotional volume.
+
+**One move this month:** make one call, dispute one error, seek one qualified resource, or renegotiate one obligation before panic makes the terms worse.
+
+**Public lever:** treat housing, medical debt, consumer credit, fees, and predatory lending as civic issues that require law, enforcement, and organized pressure.

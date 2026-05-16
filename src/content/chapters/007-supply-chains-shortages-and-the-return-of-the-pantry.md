@@ -2,8 +2,8 @@
 title: "Supply Chains, Shortages, and the Return of the Pantry"
 subtitle: "Preparedness should be boring, not theatrical."
 dek: "A resilient household and neighborhood keep ordinary goods, skills, documents, and repair habits from becoming emergency dependencies."
-order: 6
-part: "The Machinery"
+order: 7
+part: "Part II - Fortify the Household"
 tags: ["preparedness", "supply chains", "pantry", "resilience"]
 status: "revision"
 summary: "A chapter that makes preparedness normal: food, medicine, water, repair parts, documents, local substitutes, and mutual reliability."
@@ -72,7 +72,7 @@ Suddenly redundancy looks less like waste and more like wisdom.
 >
 > A train leaves the national story of commerce and enters a town's lungs.
 >
-> That is what people forget about supply chains: they do not float above us. They pass behind schools, beside churches, near creeks, past kitchens where someone has just put a child to bed. In East Palestine, Ohio, a Norfolk Southern train derailed on February 3, 2023, carrying hazardous materials including vinyl chloride. The National Transportation Safety Board later found that a failed wheel bearing caused the derailment and said the vent-and-burn decision was based on incomplete and misleading information. EPA and the Justice Department later announced a settlement valued at more than $310 million for cleanup, monitoring, penalties, and related measures.
+> That is what people forget about supply chains: they do not float above us. They pass behind schools, beside churches, near creeks, past kitchens where someone has just put a child to bed. In East Palestine, Ohio, a Norfolk Southern train derailed on February 3, 2023, carrying hazardous materials including vinyl chloride. The National Transportation Safety Board later found that a failed wheel bearing caused the derailment and said the vent-and-burn decision was based on incomplete and misleading information. EPA and the Justice Department later announced a settlement valued at more than $310 million for cleanup, monitoring, penalties, and related measures.<sup class="note-marker">[7.1]</sup>
 >
 > Those are the institutional facts. The household fact is simpler and crueler: families had to ask whether the water, the air, the soil, and the official reassurance could be trusted.
 >
@@ -297,3 +297,17 @@ The shelf will teach again. It always does.
 Let it find us less childish next time: with a working pantry, a local map, useful hands, and enough steadiness to leave something on the shelf for the next family.
 
 When shelves thin, rumor thickens. Shortage does not only test pantries; it tests whether frightened people can still tell the difference between an explanation and a target.
+
+## Field Guide: Modest Redundancy
+
+**Recognize the pressure:** a household optimized for perfect normal conditions becomes fragile when flow stops.
+
+**Questions to ask:** Can we eat, drink, charge phones, find documents, access medicine, contact help, and keep basic hygiene for three disrupted days?
+
+**Documents/tools to gather:** pantry list, water plan, flashlight, battery bank, manual can opener, medication list, emergency contacts, local map, repair contacts, and paper copies of essentials.
+
+**One move this week:** fix the smallest 72-hour failure first.
+
+**One move this month:** build a working two-week pantry from food the household actually eats.
+
+**Public lever:** ask what public return comes back when infrastructure projects use local land, power, water, roads, tax attention, and emergency capacity.

@@ -456,6 +456,53 @@ main {
   line-height: 1.45;
 }
 
+.reader-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.reader-body th,
+.reader-body td {
+  border: 1px solid var(--line);
+  padding: 0.65rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.reader-body ul,
+.reader-body ol {
+  margin: 0 0 1.1em 1.35em;
+  padding: 0;
+}
+
+.reader-body li + li {
+  margin-top: 0.35em;
+}
+
+.note-marker {
+  color: var(--rust-dark);
+  font-family: "Source Sans 3", "Arial Narrow", Arial, sans-serif;
+  font-size: 0.72em;
+  font-weight: 800;
+  margin-left: 0.08em;
+}
+
+.appendix-grid .brief-card {
+  color: inherit;
+  text-decoration: none;
+}
+
+.endnote-list {
+  display: grid;
+  gap: 1.2rem;
+}
+
+.endnote-list ul {
+  margin-top: 0.5rem;
+}
+
 .chapter-nav {
   display: flex;
   align-items: center;

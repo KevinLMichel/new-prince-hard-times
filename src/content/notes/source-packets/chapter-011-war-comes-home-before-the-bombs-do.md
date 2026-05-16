@@ -1,6 +1,6 @@
 ---
-title: "Source Packet: Chapter 9 - War Comes Home Before the Bombs Do"
-order: 109
+title: "Source Packet: Chapter 11 - War Comes Home Before the Bombs Do"
+order: 111
 summary: "Source lanes and claim map for war pressure, contracts, displacement, veterans, and domestic tradeoffs"
 status: "active"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Source Packet: Chapter 8 - Mutual Aid Without Romance"
-order: 108
+title: "Source Packet: Chapter 10 - Mutual Aid Without Romance"
+order: 110
 summary: "Source lanes and claim map for mutual aid, informal care, and local trust"
 status: "active"
 ---

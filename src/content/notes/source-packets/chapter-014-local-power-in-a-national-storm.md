@@ -1,6 +1,6 @@
 ---
-title: "Source Packet: Chapter 12 - Local Power in a National Storm"
-order: 112
+title: "Source Packet: Chapter 14 - Local Power in a National Storm"
+order: 114
 summary: "Source lanes and claim map for local government, budgets, zoning, public meetings, and civic leverage"
 status: "active"
 ---

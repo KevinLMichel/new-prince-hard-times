@@ -3,7 +3,7 @@ title: "The Household Balance Sheet as Battlefield"
 subtitle: "A household does not fall all at once. It bends first."
 dek: "The first practical discipline of hard times is to map the household honestly: income, fixed costs, debt, insurance gaps, liquidity, and the weak points that turn stress into collapse."
 order: 3
-part: "The Shock"
+part: "Part II - Fortify the Household"
 tags: ["household", "budgeting", "debt", "resilience"]
 status: "revision"
 summary: "A practical chapter on household cash-flow pressure, fixed costs, fragile income, debt exposure, emergency liquidity, and discipline without shame."
@@ -364,3 +364,17 @@ That is not glamorous. It will not impress people who prefer slogans. But it is 
 The balance sheet is a battlefield because every dollar has a job, every obligation has a claim, and every weak point will eventually be tested. But the ledger has one line no household can ignore for long: income.
 
 The household that understands its numbers does not become fearless. It becomes harder to defeat. The next fight is making the worker harder to discard.
+
+## Field Guide: Household War Room
+
+**Recognize the pressure:** fog makes every bill larger. Clarity does not fix everything, but it stops fear from inventing numbers.
+
+**Questions to ask:** What is the fixed-cost floor? What bill protects income first? What deadline can hurt us soonest? Is the gap temporary, seasonal, or structural?
+
+**Documents/tools to gather:** monthly cash-flow calendar, debt list, insurance cards, lease or mortgage documents, emergency contacts, benefit letters, passwords, and the family folder.
+
+**One move this week:** create the folder and write the next thirty days of due dates on one page.
+
+**One move this month:** calculate the fixed-cost floor and rank debts by danger, not shame.
+
+**Public lever:** support policies and institutions that reduce household fragility: fair wages, transparent fees, emergency aid, legal aid, and sane benefit access.

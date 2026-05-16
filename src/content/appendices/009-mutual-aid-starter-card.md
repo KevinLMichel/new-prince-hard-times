@@ -1,0 +1,30 @@
+---
+title: "Mutual Aid Starter Card"
+order: 9
+summary: "Rules for beginning a small mutual-aid circle without romance or chaos."
+relatedChapters: [10]
+updated: 2026-05-16
+---
+
+Start small enough to keep promises.
+
+## Five-person circle
+
+Name five people who can exchange practical help without pretending to be family.
+
+| Person | Capacity | Boundary | Emergency contact? |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+## Rules
+
+- Specific commitments only.
+- Private hardship stays private.
+- Rotate work.
+- Money needs written rules.
+- Anyone can say no before resentment becomes policy.
+- Unsafe people do not get trusted roles.
+
+## First move
+
+Trade one small, real thing: a ride, a tool, a meal, a form, a check-in, or a phone number before the storm.

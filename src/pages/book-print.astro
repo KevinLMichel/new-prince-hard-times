@@ -1,9 +1,14 @@
 ---
 import { getCollection, render } from "astro:content";
 import PrintChapter from "../components/PrintChapter.astro";
+import PrintAppendix from "../components/PrintAppendix.astro";
 import { bookMeta } from "../lib/bookMeta";
+import { sourceGroups } from "../lib/sourceGroups";
 
 const chapters = (await getCollection("chapters")).sort((a, b) => a.data.order - b.data.order);
+const appendices = (await getCollection("appendices")).sort((a, b) => a.data.order - b.data.order);
+const endnotes = (await getCollection("endnotes")).sort((a, b) => a.data.order - b.data.order);
+
 const renderedChapters = await Promise.all(
   chapters.map(async (chapter) => {
     const { Content } = await render(chapter);
@@ -14,6 +19,18 @@ const renderedChapters = await Promise.all(
     };
   })
 );
+
+const renderedAppendices = await Promise.all(
+  appendices.map(async (appendix) => {
+    const { Content } = await render(appendix);
+    return {
+      appendix,
+      Content,
+      slug: appendix.id.replace(/\.md$/, "")
+    };
+  })
+);
+
 ---
 
 <!doctype html>
@@ -65,6 +82,24 @@ const renderedChapters = await Promise.all(
             </li>
           ))
         }
+        <li>
+          <div class="toc-entry" data-target="#appendices">
+            <span class="toc-chapter">Tools</span>
+            <span class="toc-title">Appendices and Worksheets</span>
+          </div>
+        </li>
+        <li>
+          <div class="toc-entry" data-target="#endnotes">
+            <span class="toc-chapter">Notes</span>
+            <span class="toc-title">Endnotes</span>
+          </div>
+        </li>
+        <li>
+          <div class="toc-entry" data-target="#bibliography">
+            <span class="toc-chapter">Sources</span>
+            <span class="toc-title">Source Bibliography</span>
+          </div>
+        </li>
       </ol>
     </nav>
 
@@ -74,6 +109,64 @@ const renderedChapters = await Promise.all(
           <PrintChapter chapter={chapter} slug={slug} Content={Content} />
         ))
       }
+
+      <section class="book-section-opener" id="appendices">
+        <p class="chapter-kicker">Field tools</p>
+        <h1>Appendices and Worksheets</h1>
+        <p>Use these pages as working tools. They are not decorations for the argument; they are how the argument becomes practice.</p>
+      </section>
+
+      {
+        renderedAppendices.map(({ appendix, slug, Content }) => (
+          <PrintAppendix appendix={appendix} slug={slug} Content={Content} />
+        ))
+      }
+
+      <section class="book-section-opener endnotes-section" id="endnotes">
+        <p class="chapter-kicker">Receipts</p>
+        <h1>Endnotes</h1>
+        <p>Selected notes for sourced examples and higher-risk factual claims.</p>
+        {
+          endnotes.map((group) => (
+            <section class="print-endnote-group">
+              <h2>Chapter {group.data.chapterOrder}: {group.data.chapterTitle}</h2>
+              <ol>
+                {group.data.notes.map((note) => (
+                  <li>
+                    <strong>[{note.marker}]</strong> {note.text}
+                    {note.sources.length > 0 && (
+                      <ul>
+                        {note.sources.map((source) => <li>{source}</li>)}
+                      </ul>
+                    )}
+                  </li>
+                ))}
+              </ol>
+            </section>
+          ))
+        }
+      </section>
+
+      <section class="book-section-opener bibliography-section" id="bibliography">
+        <p class="chapter-kicker">Sources</p>
+        <h1>Source Bibliography</h1>
+        <p>Plain-text source map for the current revision. The website sources page keeps clickable links for reader convenience.</p>
+        {
+          sourceGroups.map((group) => (
+            <section class="print-endnote-group">
+              <h2>{group.heading}</h2>
+              <p>{group.description}</p>
+              <ul>
+                {group.sources.map((source) => (
+                  <li>
+                    <strong>{source.publisher}: {source.title}.</strong> {source.use} Source: {source.url}
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))
+        }
+      </section>
     </main>
   </body>
 </html>

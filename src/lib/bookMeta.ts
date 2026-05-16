@@ -10,5 +10,5 @@ export const bookMeta = {
   copyrightNotice:
     "The New Prince of Hard Times, Copyright © 2026 Kevin L. Michel. All rights reserved.",
   description:
-    "A living manuscript about surviving inflation, job loss, war, inequality, and permanent crisis."
+    "A field manual for surviving permanent crisis with household discipline, community reliability, and public courage."
 };

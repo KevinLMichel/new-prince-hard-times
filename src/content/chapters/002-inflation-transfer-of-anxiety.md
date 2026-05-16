@@ -3,7 +3,7 @@ title: "Inflation Is a Transfer of Anxiety"
 subtitle: "Prices rise in public. Fear compounds in private."
 dek: "Inflation is not only the loss of purchasing power. It is the relocation of fear from institutions into households."
 order: 2
-part: "The Shock"
+part: "Part I - See the Crisis"
 tags: ["inflation", "household", "prices", "trust"]
 status: "revision"
 summary: "A full draft on how price pressure becomes household discipline, political anger, and a transfer of risk."
@@ -62,7 +62,7 @@ You defend breakfast from the price of eggs. You defend dinner from the price of
 >
 > A hand reaches, stops, compares, retreats. The face does not change much. That is how you know the embarrassment is real.
 >
-> Behind the carton sat a real shock: highly pathogenic avian influenza cut into laying flocks, inventories tightened, feed and transport costs mattered, and wholesale prices moved violently. USDA tracked the disease and the price pressure. Cal-Maine, the largest U.S. shell egg producer, told investors that fiscal 2023 brought extreme market conditions and significantly higher average selling prices, primarily tied to avian flu and input costs. Senators Elizabeth Warren and Katie Porter pressed the company with the harder question ordinary people already felt in the aisle: when crisis gives a firm pricing power, where does necessity end and opportunity begin?
+> Behind the carton sat a real shock: highly pathogenic avian influenza cut into laying flocks, inventories tightened, feed and transport costs mattered, and wholesale prices moved violently. USDA tracked the disease and the price pressure. Cal-Maine, the largest U.S. shell egg producer, told investors that fiscal 2023 brought extreme market conditions and significantly higher average selling prices, primarily tied to avian flu and input costs. Senators Elizabeth Warren and Katie Porter pressed the company with the harder question ordinary people already felt in the aisle: when crisis gives a firm pricing power, where does necessity end and opportunity begin?<sup class="note-marker">[2.1]</sup>
 >
 > Do not flatten this into a cartoon. Disease killed birds. Trucks need fuel. Workers need pay. But do not make innocence out of complexity either. A crisis can begin in nature and end in a margin.
 >
@@ -295,3 +295,17 @@ You are not alone. Others are doing the same math in different aisles.
 Inflation is a transfer of anxiety. The reply is to transfer discipline back upward and outward: upward, by demanding honesty from institutions and accountability from those with pricing power; outward, by building households and communities that are harder to frighten, harder to exploit, and harder to divide.
 
 The grocery store is where inflation is felt. The household ledger is where the pressure either becomes a plan or becomes fog. Next comes the balance sheet: not as punishment, but as a map.
+
+## Field Guide: Household Inflation Audit
+
+**Recognize the pressure:** inflation attacks attention before it destroys the budget. It makes every ordinary purchase feel like evidence against you.
+
+**Questions to ask:** Which costs moved most? Which costs protect income, health, housing, or children? Which purchases are habits, which are shields, and which are traps?
+
+**Documents/tools to gather:** three months of grocery, utility, fuel, insurance, medical, childcare, debt, and rent or mortgage records.
+
+**One move this week:** identify the three categories that changed fastest and one category that must not be cut recklessly.
+
+**One move this month:** build a household inflation audit and decide what to reduce, what to protect, and what public actors deserve pressure.
+
+**Public lever:** demand honest price explanations, wage reality, competition, public data, and policy that treats household costs as civic facts, not private whining.

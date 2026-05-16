@@ -1,0 +1,14 @@
+---
+const { appendix, slug, Content } = Astro.props;
+---
+
+<article class="book-chapter appendix-chapter" id={`appendix-${slug}`}>
+  <header class="chapter-opener">
+    <p class="chapter-kicker">Appendix {appendix.data.order}</p>
+    <h1>{appendix.data.title}</h1>
+    <p class="chapter-subtitle">{appendix.data.summary}</p>
+  </header>
+  <div class="chapter-body">
+    <Content />
+  </div>
+</article>

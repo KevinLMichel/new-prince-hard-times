@@ -76,14 +76,17 @@ Use isolated punch lines sparingly. Let concrete detail carry more of the force.
 - Chapter 3 owns the household operating system: income, fixed costs, debt, liquidity, and the monthly war room.
 - Chapter 4 owns work fragility and the discipline of portability before panic.
 - Chapter 5 owns debt and rent as the loss of civic breathing room.
-- Chapter 6 owns material fragility: supply chains, repair, pantry, and modest redundancy.
-- Chapter 7 owns manipulation under pressure: blame, scapegoating, moral panic, and anger with handles.
-- Chapter 8 owns constructive trust: mutual aid stripped of romance.
-- Chapter 9 owns sober consent under war pressure.
-- Chapter 10 owns administrative inequality and the discipline of records, appeals, and gates.
-- Chapter 11 owns care as infrastructure and the unpriced economy.
-- Chapter 12 owns local power as reachable leverage.
-- Chapter 13 owns the closing field card: rules for staying human.
+- Chapter 6 owns health care as the crisis inside the crisis.
+- Chapter 7 owns material fragility: supply chains, repair, pantry, and modest redundancy.
+- Chapter 8 owns panic predators, scams, and false rescue.
+- Chapter 9 owns manipulation under pressure: blame, scapegoating, moral panic, and anger with handles.
+- Chapter 10 owns constructive trust: mutual aid stripped of romance.
+- Chapter 11 owns sober consent under war pressure.
+- Chapter 12 owns administrative inequality and the discipline of records, appeals, and gates.
+- Chapter 13 owns care as infrastructure and the unpriced economy.
+- Chapter 14 owns local power as reachable leverage.
+- Chapter 15 owns organizing without becoming a mob or someone else's ladder.
+- Chapter 16 owns the closing field card: rules for staying human.
 
 ## Evidence Gate
 

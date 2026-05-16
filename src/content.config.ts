@@ -38,4 +38,33 @@ const notes = defineCollection({
   })
 });
 
-export const collections = { chapters, brief, notes };
+const appendices = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/appendices" }),
+  schema: z.object({
+    title: z.string(),
+    order: z.number(),
+    summary: z.string(),
+    relatedChapters: z.array(z.number()).default([]),
+    updated: z.coerce.date()
+  })
+});
+
+const endnotes = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/endnotes" }),
+  schema: z.object({
+    title: z.string(),
+    order: z.number(),
+    chapterOrder: z.number(),
+    chapterTitle: z.string(),
+    chapterSlug: z.string(),
+    notes: z.array(
+      z.object({
+        marker: z.string(),
+        text: z.string(),
+        sources: z.array(z.string()).default([])
+      })
+    ).default([])
+  })
+});
+
+export const collections = { chapters, brief, notes, appendices, endnotes };

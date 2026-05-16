@@ -2,8 +2,8 @@
 title: "Mutual Aid Without Romance"
 subtitle: "Community is survival infrastructure, but trust is not magic."
 dek: "Neighbors, churches, unions, clubs, families, and informal networks can keep people alive, but only when reliability is practiced without sentimentality."
-order: 8
-part: "The Citizen's Discipline"
+order: 10
+part: "Part III - Build Useful Loyalties"
 tags: ["mutual aid", "community", "trust", "local resilience"]
 status: "revision"
 summary: "A chapter on practical mutual aid, local trust, burnout, freeloading, conflict, and the discipline of repeated reliability."
@@ -281,3 +281,17 @@ In repetitions.
 Community is not a slogan. It is the patient construction of people who can be counted on when the weather turns.
 
 The weather will not always be literal. Sometimes it will be war, fuel shocks, propaganda, veterans coming home changed, refugees arriving, or budgets bent around distant violence. The same question remains: who can still be counted on nearby?
+
+## Field Guide: Limited Trust
+
+**Recognize the pressure:** audience feels like community until somebody needs a ride, witness, meal, printer, phone call, or two hours of care.
+
+**Questions to ask:** Who can do what? Who protects privacy? Who burns out? Who needs boundaries? Who is unsafe around money, children, addresses, or private hardship?
+
+**Documents/tools to gather:** ten-person contact list, skills list, privacy rules, rotating task list, money rules, emergency contacts, and a way to say no.
+
+**One move this week:** write ten people within reach and one practical capacity each person may have.
+
+**One move this month:** start one limited-trust exchange: tool, ride, meal, check-in, paperwork help, or emergency contact.
+
+**Public lever:** coordinate with libraries, churches, unions, schools, clinics, nonprofits, tenant groups, and public agencies without pretending volunteer care replaces public duty.

@@ -40,6 +40,8 @@ const currentChapterSlug = (entry: { id: string }) => entry.id.replace(/\.md$/, 
       </div>
       <nav class="chapter-nav" aria-label="Chapter navigation">
         <a class="button-link" href="/chapters">Back to chapters</a>
+        <a class="button-link" href="/appendices">Appendices</a>
+        <a class="button-link" href="/endnotes">Endnotes</a>
         <div>
           {previousChapter && (
             <a class="chapter-nav-card" href={`/chapters/${currentChapterSlug(previousChapter)}`}>

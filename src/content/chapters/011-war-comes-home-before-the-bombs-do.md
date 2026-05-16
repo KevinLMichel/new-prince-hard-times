@@ -2,8 +2,8 @@
 title: "War Comes Home Before the Bombs Do"
 subtitle: "Conflict is decided far away and paid for nearby."
 dek: "War reaches households through prices, propaganda, veterans, refugees, budgets, energy, cyber risk, and the moral weather of a country."
-order: 9
-part: "The Citizen's Discipline"
+order: 11
+part: "Part III - Build Useful Loyalties"
 tags: ["war", "propaganda", "energy", "veterans"]
 status: "revision"
 summary: "A chapter on the domestic second-order effects of war and the citizen's duty to ask who benefits, who pays, and what is being normalized."
@@ -243,3 +243,17 @@ Picture the serious citizen with three documents open at once: a defense budget,
 The serious citizen does not worship war. He does not pretend danger is fake. He keeps his head clear enough to know the difference between courage and appetite.
 
 The same discipline that audits war must now audit quieter gates. Fear sells emergency powers; bureaucracy sells inevitability.
+
+## Field Guide: Sober Consent
+
+**Recognize the pressure:** war enters domestic life through prices, budgets, propaganda, veterans, refugees, emergency powers, cyber risk, and attention.
+
+**Questions to ask:** What is being requested? What would count as success? Who pays first? Who profits early? Who is cared for late? What power expands, and how does it return?
+
+**Documents/tools to gather:** public budgets, contract records, veterans-service information, energy data, local refugee-support contacts, civil-liberties resources, and congressional or local representative contacts.
+
+**One move this week:** choose one war-related claim and trace it to a primary source before repeating it.
+
+**One move this month:** learn where defense spending, veteran care, emergency planning, or refugee support touches your local area.
+
+**Public lever:** demand defense with audit, care for veterans, honest refugee logistics, clear limits on emergency powers, and budgets that do not abandon the home front.

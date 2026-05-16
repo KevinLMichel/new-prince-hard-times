@@ -99,7 +99,32 @@ export const sourceGroups = [
     ]
   },
   {
-    heading: "Chapter 6: supply chains and East Palestine",
+    heading: "Chapter 6: health care, denials, and medical bills",
+    description:
+      "These sources support the new health-care chapter's cautious distinction between coverage and access. Specific appeal rights, plan rules, and medical-bill procedures vary and require qualified guidance.",
+    sources: [
+      {
+        title: "Centers for Medicare & Medicaid Services",
+        publisher: "CMS",
+        url: "https://www.cms.gov/",
+        use: "Coverage, appeals, patient-facing program rules, and health-system background."
+      },
+      {
+        title: "Health policy research",
+        publisher: "KFF",
+        url: "https://www.kff.org/",
+        use: "Health coverage, access, costs, medical debt, and insurance-policy context."
+      },
+      {
+        title: "Health oversight work",
+        publisher: "U.S. Government Accountability Office",
+        url: "https://www.gao.gov/",
+        use: "Oversight reports on health systems, program administration, and access issues."
+      }
+    ]
+  },
+  {
+    heading: "Chapter 7: supply chains and East Palestine",
     description:
       "These sources support the East Palestine Field Note and the chapter's argument that supply chains are physical systems with local risk.",
     sources: [
@@ -124,7 +149,26 @@ export const sourceGroups = [
     ]
   },
   {
-    heading: "Chapter 8: mutual aid and community resilience",
+    heading: "Chapter 8: panic predators and consumer protection",
+    description:
+      "These sources support the chapter's warnings about scams, urgency traps, false rescue, and predatory consumer pressure.",
+    sources: [
+      {
+        title: "Consumer advice",
+        publisher: "Federal Trade Commission",
+        url: "https://consumer.ftc.gov/",
+        use: "Scam warnings, fraud prevention, and consumer-verification guidance."
+      },
+      {
+        title: "Consumer tools",
+        publisher: "Consumer Financial Protection Bureau",
+        url: "https://www.consumerfinance.gov/consumer-tools/",
+        use: "Debt, credit, financial-products, and consumer-risk guidance."
+      }
+    ]
+  },
+  {
+    heading: "Chapter 10: mutual aid and community resilience",
     description:
       "These sources support the book's cautious claim that local preparedness and reliable networks matter, while not treating volunteer capacity as a substitute for public systems.",
     sources: [
@@ -143,7 +187,7 @@ export const sourceGroups = [
     ]
   },
   {
-    heading: "Chapter 9: war, contracts, veterans, displacement, and infrastructure",
+    heading: "Chapter 11: war, contracts, veterans, displacement, and infrastructure",
     description:
       "These sources support claims about public spending, procurement, veterans' obligations, displacement, and domestic infrastructure risk. They do not support unsourced motive claims.",
     sources: [
@@ -186,7 +230,7 @@ export const sourceGroups = [
     ]
   },
   {
-    heading: "Chapter 10: administrative inequality and paperwork gates",
+    heading: "Chapter 12: administrative inequality and paperwork gates",
     description:
       "These sources support claims about consumer finance, public data, benefits navigation, and the way process can shape access. Specific program thresholds still need jurisdiction-by-jurisdiction checking before final publication.",
     sources: [
@@ -229,7 +273,7 @@ export const sourceGroups = [
     ]
   },
   {
-    heading: "Chapter 12: local power and public records",
+    heading: "Chapter 14 and 15: local power, organizing, and public records",
     description:
       "These sources support the local-power frame. Any future named city, school board, zoning case, contractor, or budget example should be tied to direct local public records.",
     sources: [
@@ -256,6 +300,12 @@ export const sourceGroups = [
         publisher: "City, county, school-board, and agency records",
         url: "https://www.usa.gov/state-local-governments",
         use: "Budgets, agendas, minutes, zoning codes, procurement records, and public-comment deadlines."
+      },
+      {
+        title: "FOIA and public records",
+        publisher: "USAGov",
+        url: "https://www.usa.gov/foia",
+        use: "Federal public-records orientation and starting point for records requests."
       }
     ]
   }

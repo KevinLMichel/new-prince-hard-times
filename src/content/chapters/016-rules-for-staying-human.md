@@ -2,8 +2,8 @@
 title: "Rules for Staying Human"
 subtitle: "Do not let hard times make you small."
 dek: "The closing field manual gathers principles for judgment, dignity, attention, courage, local trust, and hope with teeth."
-order: 13
-part: "The Renewal"
+order: 16
+part: "Part IV - Practice Local Power"
 tags: ["principles", "hope", "dignity", "field manual"]
 status: "revision"
 summary: "A closing chapter of practical principles for refusing denial, despair, cruelty, and manipulation."
@@ -226,3 +226,17 @@ But decline is not destiny. Crisis is not character. Pressure reveals weakness, 
 The age may be hard. Become clearer, steadier, and more useful. When the merchants of fear arrive to sell despair, do not buy it.
 
 There is work to do.
+
+## Field Guide: The Final Card
+
+**Recognize the pressure:** crisis will ask you to become easier to rule: panicked, cruel, isolated, fogged, distracted, and ashamed.
+
+**Questions to ask:** What is true? What is mine to do? Who needs me useful? What would make me impossible to love? What public act does private steadiness now require?
+
+**Documents/tools to gather:** the field cards that matter most to your life, one household plan, one local power map, one trusted circle, and one written oath.
+
+**One move this week:** choose one rule for the next bad year and put it where you will see it.
+
+**One move this month:** do one useful public act that costs attention, not just opinion.
+
+**Public lever:** become the kind of citizen who can be counted on: clear eyes, clean hands, useful loyalties, public courage.

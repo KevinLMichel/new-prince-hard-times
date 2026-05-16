@@ -2,8 +2,8 @@
 title: "Children, Elders, and the Unpriced Economy"
 subtitle: "The work that holds society together is often the work the ledger refuses to see."
 dek: "Care work, schooling instability, eldercare, disability, grief, and family obligation reveal the hidden economy beneath every public crisis."
-order: 11
-part: "The Citizen's Discipline"
+order: 13
+part: "Part III - Build Useful Loyalties"
 tags: ["care", "children", "elders", "family"]
 status: "revision"
 summary: "A chapter on the unpriced labor that keeps society functioning and the moral weight of protecting dependents under pressure."
@@ -245,3 +245,17 @@ To stay human in hard times, protect the people who cannot compete their way out
 The unpriced economy is not outside the real economy. It is the reason there is anything left to save.
 
 Once the household can see its own hidden labor, the question becomes public: which local institutions protect that labor, and which quietly consume it?
+
+## Field Guide: Care Map
+
+**Recognize the pressure:** care work disappears when it is done well, then becomes visible only when the caregiver breaks.
+
+**Questions to ask:** Who depends on whom? Who knows the medicines, rides, meals, school contacts, passwords, appointments, and warning signs? Who has no backup?
+
+**Documents/tools to gather:** care schedule, medication list, school contacts, elder contacts, emergency permissions, legal documents where applicable, backup-care list, and family meeting notes.
+
+**One move this week:** write the household care map without judging it.
+
+**One move this month:** build one backup for the most fragile care task.
+
+**Public lever:** support childcare, eldercare, disability access, caregiver leave, transportation, school stability, and public institutions that protect dependence without humiliating it.

@@ -1,0 +1,26 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { bookMeta } from "../../lib/bookMeta";
+
+const appendices = (await getCollection("appendices")).sort((a, b) => a.data.order - b.data.order);
+---
+
+<BaseLayout title={`Appendices | ${bookMeta.title}`} description="Practical worksheets and field cards for The New Prince of Hard Times.">
+  <main>
+    <h1 class="page-title">Appendices</h1>
+    <p class="subtitle">Worksheets, field cards, and practical tools for turning the manuscript into household and civic action.</p>
+    <section class="grid appendix-grid">
+      {appendices.map((appendix) => {
+        const slug = appendix.id.replace(/\.md$/, "");
+        return (
+          <a class="brief-card" href={`/appendices/${slug}`}>
+            <p class="eyebrow">Appendix {appendix.data.order.toString().padStart(2, "0")}</p>
+            <h2>{appendix.data.title}</h2>
+            <p>{appendix.data.summary}</p>
+          </a>
+        );
+      })}
+    </section>
+  </main>
+</BaseLayout>

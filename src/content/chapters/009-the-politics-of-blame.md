@@ -2,8 +2,8 @@
 title: "The Politics of Blame"
 subtitle: "Hard times make frightened people easier to aim."
 dek: "Crisis creates a market for scapegoats, moral panic, conspiracy shortcuts, and theater that converts pain into obedience."
-order: 7
-part: "The Machinery"
+order: 9
+part: "Part III - Build Useful Loyalties"
 tags: ["politics", "scapegoats", "media", "manipulation"]
 status: "revision"
 summary: "A chapter on recognizing manipulation, divide-and-rule tactics, and the cheap satisfaction of blame without strategy."
@@ -291,3 +291,17 @@ Then act.
 The citizen must be angry enough to notice injustice and disciplined enough not to become a weapon in someone else's hand.
 
 A citizen who cannot be aimed is harder to exploit. But discipline alone is not enough. The next task is to become anchored among people who can still be counted on when fear tries to separate everyone.
+
+## Field Guide: The Blame Test
+
+**Recognize the pressure:** hard times make simple enemies emotionally profitable.
+
+**Questions to ask:** Is this accountability or scapegoating? What decision, incentive, office, budget, contract, or rule caused the harm? Who benefits if I blame downward?
+
+**Documents/tools to gather:** source links, dates, budgets, public records, direct quotes, screenshots, and a trusted person who will challenge your first reaction.
+
+**One move this week:** before reposting outrage, write the actual decision-maker and the actual mechanism of harm.
+
+**One move this month:** track one issue long enough to distinguish evidence from atmosphere.
+
+**Public lever:** turn anger toward lawful pressure: records, meetings, lawsuits, votes, unions, audits, hearings, and organized repair.

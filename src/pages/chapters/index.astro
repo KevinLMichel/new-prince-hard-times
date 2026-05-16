@@ -13,6 +13,8 @@ const parts = [...new Set(chapters.map((chapter) => chapter.data.part))];
     <p class="subtitle">The manuscript is intentionally visible as a working structure. Status labels show where each chapter sits in the drafting cycle.</p>
     <p>
       <a class="button-link" href={bookMeta.pdfPath} download>{bookMeta.downloadLabel}</a>
+      <a class="button-link" href="/appendices">Open the appendices</a>
+      <a class="button-link" href="/endnotes">Read endnotes</a>
     </p>
 
     {parts.map((part) => (

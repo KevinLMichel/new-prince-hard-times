@@ -1,7 +1,7 @@
 ---
 title: "Source Bibliography"
 order: 4
-summary: "Repo-only source map for future evidence passes"
+summary: "Source map for future evidence passes and the PDF bibliography"
 status: "active"
 ---
 
@@ -37,8 +37,14 @@ This bibliography is a starting map, not a finished citation apparatus.
 
 - FEMA Ready preparedness guidance: https://www.ready.gov/
 - FEMA Community Emergency Response Team: https://www.fema.gov/emergency-managers/individuals-communities/preparedness-activities-webinars/community-emergency-response-team
+- CMS health coverage and appeal resources: https://www.cms.gov/
+- HHS health resources: https://www.hhs.gov/
+- KFF health policy research: https://www.kff.org/
+- FTC consumer scam and fraud guidance: https://consumer.ftc.gov/
+- CFPB consumer tools: https://www.consumerfinance.gov/consumer-tools/
 - USAGov benefits finder: https://www.usa.gov/benefit-finder
 - USAGov state and local government directory: https://www.usa.gov/state-local-governments
+- USAGov FOIA orientation: https://www.usa.gov/foia
 
 ## War, public spending, and displacement
 

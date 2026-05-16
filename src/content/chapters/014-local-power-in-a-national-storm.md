@@ -2,8 +2,8 @@
 title: "Local Power in a National Storm"
 subtitle: "The republic is repaired close to the ground or not at all."
 dek: "City councils, school boards, tenant groups, mutual aid networks, co-ops, local journalism, and public meetings turn citizenship from mood into leverage."
-order: 12
-part: "The Renewal"
+order: 14
+part: "Part IV - Practice Local Power"
 tags: ["local power", "civics", "organizing", "renewal"]
 status: "revision"
 summary: "A chapter that shifts from survival to usable civic agency at the local level."
@@ -257,3 +257,17 @@ Look near to fix the roof.
 Then choose the next reachable act: print the agenda, send the email, ask the neighbor to come, sit through the bad microphone, and stay long enough to learn when the vote happens.
 
 A local operating picture tells you where the levers are. The final discipline is deciding what kind of person will reach for them when pressure rises.
+
+## Field Guide: Local Operating Picture
+
+**Recognize the pressure:** national crisis becomes local through budgets, zoning, school boards, utilities, contracts, policing, services, roads, permits, and calendars.
+
+**Questions to ask:** Who controls what? When do they meet? What budget line matters? What rule blocks repair? What public record would reveal the decision?
+
+**Documents/tools to gather:** local contact list, meeting calendar, budget links, zoning map, school-board agenda, utility contacts, public-records process, and trusted local reporter or civic group.
+
+**One move this week:** identify one local institution that touches your household and learn its next meeting date.
+
+**One move this month:** attend or watch one meeting and write down who decides, who speaks, and what documents matter.
+
+**Public lever:** use public comment, records requests, budget testimony, coalitions, local journalism, and elections to make power answer at walking distance.

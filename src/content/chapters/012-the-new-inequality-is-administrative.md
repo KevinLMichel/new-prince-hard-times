@@ -2,8 +2,8 @@
 title: "The New Inequality Is Administrative"
 subtitle: "The gate is often a form, a fee, a score, a login, or a rule nobody explains."
 dek: "Modern inequality is enforced not only by wealth, but by paperwork, algorithms, licensing, zoning, benefit cliffs, and bureaucratic endurance contests."
-order: 10
-part: "The Citizen's Discipline"
+order: 12
+part: "Part III - Build Useful Loyalties"
 tags: ["inequality", "bureaucracy", "paperwork", "systems"]
 status: "revision"
 summary: "A chapter on navigating administrative gates and documenting everything without mistaking paperwork survival for justice."
@@ -94,7 +94,7 @@ A form can be a wall.
 >
 > Study, apply, wait, refresh, call, upload, correct, wait again. The promise is simple: aid for education. The experience can become a maze of accounts, signatures, missing data, delayed answers, and parents trying to remember tax details while a deadline walks toward the family.
 >
-> The simplified FAFSA was supposed to make federal student aid easier. GAO later found that the 2024-25 rollout was delayed by about three months, hit by technical problems, and contributed to a drop in first-time applicants, with sharper declines among lower-income students. That is not a small administrative embarrassment. That is opportunity rationed by malfunction.
+> The simplified FAFSA was supposed to make federal student aid easier. GAO later found that the 2024-25 rollout was delayed by about three months, hit by technical problems, and contributed to a drop in first-time applicants, with sharper declines among lower-income students. That is not a small administrative embarrassment. That is opportunity rationed by malfunction.<sup class="note-marker">[12.1]</sup>
 >
 > No one has to stand at the schoolhouse door anymore if the portal can fail quietly enough.
 >
@@ -285,3 +285,17 @@ The gate is often a form, a fee, a score, a login, or a rule nobody explains.
 Learn the gate well enough to pass through it; then help tear down the parts that should never have been built.
 
 But every gate has a hidden clerk at home: the person keeping documents, arranging rides, translating letters, watching children, checking medicines, and absorbing the stress. Administrative inequality lands on the unpriced economy.
+
+## Field Guide: Administrative Go-Bag
+
+**Recognize the pressure:** a form, login, fee, deadline, score, or missing document can become a wall.
+
+**Questions to ask:** What is the exact deadline? What rule is being cited? What proof is missing? Who can explain it? Is the first no final, or is there an appeal?
+
+**Documents/tools to gather:** IDs, proof of address, income records, benefit letters, tax records, lease, insurance cards, account logins, denial letters, appeal forms, screenshots, phone logs, and reference numbers.
+
+**One move this week:** create one administrative go-bag with copies of the documents most systems repeatedly ask for.
+
+**One move this month:** teach one other person a procedural lesson you learned the hard way.
+
+**Public lever:** pressure agencies, employers, schools, insurers, landlords, and platforms to simplify gates, preserve human help, and publish clear appeal paths.

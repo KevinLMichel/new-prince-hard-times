@@ -5,6 +5,7 @@ import ChapterCard from "../components/ChapterCard.astro";
 import { bookMeta } from "../lib/bookMeta";
 
 const chapters = (await getCollection("chapters")).sort((a, b) => a.data.order - b.data.order);
+const appendices = (await getCollection("appendices")).sort((a, b) => a.data.order - b.data.order);
 const draftCount = chapters.filter((chapter) => chapter.data.status === "draft").length;
 const outlineCount = chapters.filter((chapter) => chapter.data.status === "outline").length;
 const revisionCount = chapters.filter((chapter) => ["revision", "polished"].includes(chapter.data.status)).length;
@@ -25,6 +26,7 @@ const revisionCount = chapters.filter((chapter) => ["revision", "polished"].incl
         </p>
         <p class="hero-actions">
           <a class="button-link" href="/chapters">Enter the manuscript</a>
+          <a class="button-link" href="/appendices">Use the appendices</a>
           <a class="button-link" href={bookMeta.pdfPath} download>{bookMeta.downloadLabel}</a>
         </p>
       </div>
@@ -50,7 +52,7 @@ const revisionCount = chapters.filter((chapter) => ["revision", "polished"].incl
       </div>
       <div class="panel">
         <p class="eyebrow">Progress</p>
-        <p>{chapters.length} chapter files seeded. {draftCount} drafts, {outlineCount} outlines, {revisionCount} revised or polished.</p>
+        <p>{chapters.length} chapters and {appendices.length} field tools. {draftCount} drafts, {outlineCount} outlines, {revisionCount} revised or polished.</p>
       </div>
     </section>
 
@@ -58,6 +60,10 @@ const revisionCount = chapters.filter((chapter) => ["revision", "polished"].incl
       <div>
         <span>{chapters.length}</span>
         <small>Total chapters</small>
+      </div>
+      <div>
+        <span>{appendices.length}</span>
+        <small>Appendices</small>
       </div>
       <div>
         <span>{draftCount}</span>

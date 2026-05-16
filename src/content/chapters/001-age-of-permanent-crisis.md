@@ -3,7 +3,7 @@ title: "The Age of Permanent Crisis"
 subtitle: "The old bargain cracked. The citizen cannot afford to stay asleep."
 dek: "Crisis is no longer an interruption. It is the weather ordinary people are asked to live inside."
 order: 1
-part: "The Shock"
+part: "Part I - See the Crisis"
 tags: ["crisis", "citizenship", "power"]
 status: "revision"
 summary: "The opening chapter names the condition: crisis is no longer an interruption, but the weather ordinary people are asked to live inside."
@@ -55,6 +55,30 @@ The word prince is used here as a provocation. Hard times produce their own educ
 The task is not to become ruthless.
 
 The task is to become difficult to deceive and still possible to love.
+
+## How to use this book
+
+Use this book three ways.
+
+First, use it for personal stabilization. When the pressure becomes loud, do not begin with ideology. Begin with food, medicine, documents, income, debt, transportation, sleep, and the next honest call. A citizen who cannot steady the household will struggle to steady anything larger.
+
+Second, use it for household planning. The chapters ahead are not meant to be admired like speeches. They are meant to be marked up, argued with, carried into kitchens, used beside bills, read before meetings, and turned into checklists. Hard times reward people who convert dread into written systems.
+
+Third, use it for civic action. Private discipline can keep a family from falling apart. It cannot, by itself, build a just country. The point is to move from clarity to leverage: better records, better neighbors, better questions, better pressure, better institutions.
+
+The organizing model is a triangle:
+
+| Corner | Question | Discipline |
+| --- | --- | --- |
+| Household discipline | What keeps this home from becoming fog? | Numbers, documents, reserves, health, skills, repair. |
+| Community reliability | Who can be trusted within reach? | Limited trust, mutual aid, privacy, shared tools, local memory. |
+| Public accountability | Who has power, and what can citizens make it answer? | Budgets, records, meetings, organizing, law, votes, pressure. |
+
+If one corner is missing, the triangle collapses. Household discipline without public accountability becomes private burden. Public anger without household steadiness becomes theatrical exhaustion. Community without boundaries becomes burnout. The new prince learns to hold all three.
+
+The old language of power can still be useful if translated. Fortune is the shock you did not schedule: inflation, illness, layoff, war, flood, denial letter, rent notice. Virtu is not swagger. It is competence under pressure. Arms are not merely weapons; they are skills, cash, documents, tools, relationships, and organized pressure. Mercenaries are the fragile dependencies that promise rescue while owning the road: platforms, predatory lenders, distant employers, grifters, and institutions that vanish when the bill arrives. Fortresses are emergency funds, pantries, records, reputations, local trust, legal rights, and habits that do not collapse at the first bad rumor. Counselors are the people who will tell you the truth before panic flatters you.
+
+That is the field-guide promise. Diagnosis first. Tools next. Public courage after that.
 
 ## The first discipline is to see clearly
 
@@ -115,3 +139,17 @@ This book is written for those who do not want to be softened into obedience or 
 Not everything will be fine.
 
 So we begin where permanent crisis first becomes undeniable: not in a speech, not in a chart, but at the register, when the same work buys less bread.
+
+## Field Guide: Entering Hard Times
+
+**Recognize the pressure:** crisis feels permanent when the household must solve too many public failures privately.
+
+**Questions to ask:** Which part of the pressure is mine to manage? Which part belongs to systems, markets, offices, or institutions? What must be stabilized before I act publicly?
+
+**Documents/tools to gather:** a notebook, household bills, income records, benefit letters, local contacts, emergency numbers, and one place where receipts and deadlines live.
+
+**One move this week:** write the Hard Times Triangle on one page: household discipline, community reliability, public accountability.
+
+**One move this month:** choose one household weakness, one relationship to strengthen, and one public institution to understand.
+
+**Public lever:** refuse the false choice between personal responsibility and public justice. Carry both into every chapter that follows.

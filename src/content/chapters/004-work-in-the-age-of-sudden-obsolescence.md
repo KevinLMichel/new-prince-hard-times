@@ -3,7 +3,7 @@ title: "Work in the Age of Sudden Obsolescence"
 subtitle: "The company called you family until the spreadsheet changed its mind."
 dek: "Layoffs, automation, unstable schedules, credential inflation, and corporate disloyalty require workers to build portability before panic arrives."
 order: 4
-part: "The Shock"
+part: "Part II - Fortify the Household"
 tags: ["work", "layoffs", "skills", "labor"]
 status: "revision"
 summary: "A chapter on job loss, unstable work, automation pressure, and the practical discipline of becoming harder to discard."
@@ -116,7 +116,7 @@ The worker's duty is readiness.
 >
 > The stand-up strike understood something old: workers do not only have grievances. They have timing.
 >
-> In September 2023, the United Auto Workers launched a targeted strike against Ford, General Motors, and Stellantis. Not every plant at once. Not every card on the table. Pressure applied where pressure mattered, then expanded when the companies did not move far enough. Shawn Fain and the union used the phrase "record profits mean record contracts" because good labor language does what a good shop steward does: it connects the floor to the balance sheet.
+> In September 2023, the United Auto Workers launched a targeted strike against Ford, General Motors, and Stellantis. Not every plant at once. Not every card on the table. Pressure applied where pressure mattered, then expanded when the companies did not move far enough. Shawn Fain and the union used the phrase "record profits mean record contracts" because good labor language does what a good shop steward does: it connects the floor to the balance sheet.<sup class="note-marker">[4.1]</sup>
 >
 > A strike is not noble simply because it is a strike. A union can be foolish. A company can face real constraints. Cars do not build themselves out of moral theater. But disciplined collective pressure is different from rage. It is leverage with a calendar.
 >
@@ -299,3 +299,17 @@ Learn. Prepare. Translate your skills. Build relationships. Keep proof. Stay use
 A job can end.
 
 Your capacity must not. Capacity still needs room, though. The next pressure is the one that makes every future paycheck feel already claimed: debt, rent, and the price of breathing room.
+
+## Field Guide: Work Readiness
+
+**Recognize the pressure:** a worker can be praised, measured, automated, reorganized, and discarded inside the same quarter.
+
+**Questions to ask:** What proof do I have? Who knows my work? What skill travels? What tool is changing the job? What would I do in the first seven days after a layoff?
+
+**Documents/tools to gather:** resume, licenses, references, work samples, performance records you are allowed to keep, wage research, benefits information, and a private leverage ledger.
+
+**One move this week:** update one proof of work: resume line, portfolio item, reference list, certification record, or measurable result.
+
+**One move this month:** map your title into underlying capacities and adjacent jobs.
+
+**Public lever:** support worker power, transparent layoff rules, portable benefits, training that leads to leverage, and organizations that make workers harder to isolate.

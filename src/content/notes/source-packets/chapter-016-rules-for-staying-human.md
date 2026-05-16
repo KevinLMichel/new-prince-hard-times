@@ -1,6 +1,6 @@
 ---
-title: "Source Packet: Chapter 13 - Rules for Staying Human"
-order: 113
+title: "Source Packet: Chapter 16 - Rules for Staying Human"
+order: 116
 summary: "Source lanes and claim map for the closing field manual"
 status: "active"
 ---

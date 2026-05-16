@@ -1,6 +1,6 @@
 ---
-title: "Source Packet: Chapter 7 - The Politics of Blame"
-order: 107
+title: "Source Packet: Chapter 9 - The Politics of Blame"
+order: 109
 summary: "Source lanes and claim map for scapegoating, moral panic, and attention incentives"
 status: "active"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Source Packet: Chapter 11 - Children, Elders, and the Unpriced Economy"
-order: 111
+title: "Source Packet: Chapter 13 - Children, Elders, and the Unpriced Economy"
+order: 113
 summary: "Source lanes and claim map for care work, eldercare, children, and unpaid labor"
 status: "active"
 ---

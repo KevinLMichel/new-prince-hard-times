@@ -1,6 +1,6 @@
 ---
-title: "Source Packet: Chapter 6 - Supply Chains, Shortages, and the Return of the Pantry"
-order: 106
+title: "Source Packet: Chapter 7 - Supply Chains, Shortages, and the Return of the Pantry"
+order: 107
 summary: "Source lanes and claim map for supply chains, critical infrastructure, and household preparedness"
 status: "active"
 ---

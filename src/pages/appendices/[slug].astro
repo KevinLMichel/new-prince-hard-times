@@ -1,0 +1,36 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { bookMeta } from "../../lib/bookMeta";
+
+export async function getStaticPaths() {
+  const appendices = (await getCollection("appendices")).sort((a, b) => a.data.order - b.data.order);
+  return appendices.map((appendix) => ({
+    params: { slug: appendix.id.replace(/\.md$/, "") },
+    props: { appendix }
+  }));
+}
+
+const { appendix } = Astro.props;
+const { Content } = await render(appendix);
+---
+
+<BaseLayout title={`${appendix.data.title} | ${bookMeta.title}`} description={appendix.data.summary}>
+  <main>
+    <article class="reader">
+      <div class="reader-meta">
+        <span>Appendix {appendix.data.order.toString().padStart(2, "0")}</span>
+        <span>Field tool</span>
+      </div>
+      <h1>{appendix.data.title}</h1>
+      <p class="reader-dek">{appendix.data.summary}</p>
+      <div class="reader-body">
+        <Content />
+      </div>
+      <nav class="chapter-nav" aria-label="Appendix navigation">
+        <a class="button-link" href="/appendices">Back to appendices</a>
+        <a class="button-link" href={bookMeta.pdfPath} download>Download PDF</a>
+      </nav>
+    </article>
+  </main>
+</BaseLayout>

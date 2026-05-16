@@ -75,6 +75,6 @@ Use for administrative inequality. Many systems rely on people accepting the fir
 - Chapter 1: establish why the author is writing and where he stands.
 - Chapter 3: connect monthly household discipline to small course correction.
 - Chapter 4: use the job-too-small story to deepen portability without romanticizing risk.
-- Chapter 10: later add "the first no is not final" as an administrative discipline.
-- Chapter 12: later connect local power to course correction by degrees.
-- Chapter 13: return to one-percent agency as the closing version of strategic hope.
+- Chapter 12: later add "the first no is not final" as an administrative discipline.
+- Chapter 14: later connect local power to course correction by degrees.
+- Chapter 16: return to one-percent agency as the closing version of strategic hope.
