@@ -7,7 +7,7 @@ part: "The Shock"
 tags: ["inflation", "household", "prices", "trust"]
 status: "revision"
 summary: "A full draft on how price pressure becomes household discipline, political anger, and a transfer of risk."
-updated: 2026-05-13
+updated: 2026-05-16
 ---
 
 Inflation does not arrive like a thief in a mask.
@@ -175,6 +175,12 @@ But citizenship in hard times cannot be built on the fantasy that only other peo
 The citizen's job is not to worship policy language.
 
 The citizen's job is to examine consequences.
+
+The official number matters. It is one of the few shared instruments a society has for measuring pressure. But the lived number matters too. The official number averages. The household number decides.
+
+At the top, inflation can be an annoyance, a portfolio adjustment, a talking point, a reason to rebalance or delay a purchase. At the bottom, inflation becomes a series of forced decisions: cheaper food or less food, delay the refill or delay the electric bill, take the extra shift or miss the child's event, pay the rent or let the car go dangerous another month. The same percentage does not land on every life with the same weight.
+
+That is why the household budget tells the truth, but it does not acquit the system. If the receipt exposes waste, correct the waste. If it exposes extraction, name the extraction. If it exposes wages that no longer answer prices, do not let anyone reduce the problem to personal virtue. The ledger is a flashlight, not a confession booth.
 
 Who gains pricing power?
 

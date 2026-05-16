@@ -7,7 +7,7 @@ part: "The Renewal"
 tags: ["local power", "civics", "organizing", "renewal"]
 status: "revision"
 summary: "A chapter that shifts from survival to usable civic agency at the local level."
-updated: 2026-05-13
+updated: 2026-05-16
 ---
 
 National crisis arrives with a grand vocabulary. Inflation. War. Polarization. Recession. Migration. Automation. Debt. Energy. Housing. Decline.
@@ -105,6 +105,50 @@ The point is not paranoia.
 The point is orientation.
 
 A lost citizen is easy to herd. An oriented citizen is harder to deceive.
+
+## Public claim, not private gratitude
+
+When private profit depends on public support, citizens should not approach the deal like beggars.
+
+They should approach it like owners of the ground beneath the bargain.
+
+A company may bring jobs. A developer may bring housing. A data center may bring tax revenue. A hospital system, university, warehouse, stadium, port, or industrial project may bring real benefits. Local government should not be hostile to every proposal merely because it involves money. Poverty is not moral purity. A town without investment can decay while congratulating itself on suspicion.
+
+But investment that uses public assets creates public questions.
+
+What tax break is being offered, and for how long?
+
+What roads, utilities, water systems, schools, emergency services, police, fire, permits, inspections, and staff time will support the project?
+
+What happens to rent, traffic, wages, small businesses, local hiring, public revenue, and household costs?
+
+What is written down, enforceable, measurable, and reviewed after the ribbon cutting?
+
+The citizen should learn a phrase: public return.
+
+If the public helps make private profit possible, what returns to the public? Apprenticeships. Utility relief. School funding. Sidewalks. Transit. Affordable units. Local hiring. Emergency-power support. Public internet. Workforce training. Environmental monitoring. A community benefits agreement with teeth. Revenue that cannot be quietly abated away after the photographs are taken.
+
+This is not envy.
+
+It is adulthood.
+
+Gratitude is appropriate when a bargain is fair. Gratitude is servile when it replaces negotiation.
+
+Local power becomes real when citizens stop asking only whether development will come and start asking what terms will govern its arrival.
+
+Picture the room where the terms are softened.
+
+Fluorescent lights. A half-empty audience. A consultant with a slide deck. A developer promising jobs in a tone that makes questions sound ungrateful. A mayor praising momentum. A clerk trying to keep the agenda moving. Three residents who came because the road already floods, the school already needs a counselor, the utility bill already hurts, and the promise of growth sounds less like a miracle than a bill with nicer fonts.
+
+One person asks whether the tax abatement has a clawback if jobs do not arrive.
+
+One asks how much water the project will use during drought.
+
+One asks whether apprenticeships are guaranteed for local young people or merely hoped for.
+
+One asks who pays if the road needs widening.
+
+This is not anti-business. It is pro-public. It says welcome, but not worship. It says build, but do not invoice the town for your private future while calling the town lucky to be chosen.
 
 ## The municipal battlefield
 

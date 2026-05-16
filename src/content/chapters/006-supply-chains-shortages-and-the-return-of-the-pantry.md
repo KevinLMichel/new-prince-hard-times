@@ -7,7 +7,7 @@ part: "The Machinery"
 tags: ["preparedness", "supply chains", "pantry", "resilience"]
 status: "revision"
 summary: "A chapter that makes preparedness normal: food, medicine, water, repair parts, documents, local substitutes, and mutual reliability."
-updated: 2026-05-13
+updated: 2026-05-16
 ---
 
 The shelf taught a lesson the speech did not.
@@ -201,6 +201,52 @@ Every household is part of a supply chain.
 Every neighborhood is too.
 
 The question is whether anyone has bothered to notice.
+
+## When the future uses the town
+
+The future is often introduced with ribbon cuttings and clean language.
+
+A data center. A logistics hub. A battery plant. A distribution warehouse. A server farm. A highway expansion. A port upgrade. A new industrial park wrapped in promises of modernization.
+
+Some of these projects are useful. Some bring jobs, tax revenue, infrastructure, and real opportunity. A serious citizen should not sneer at development as if poverty were more authentic than industry.
+
+But usefulness does not cancel the question of public claim.
+
+When a project uses land, water, electricity, roads, emergency services, tax abatements, zoning changes, public patience, and the attention of local officials, the community has a right to ask what returns. Not in slogans. In terms.
+
+How many local jobs, and at what wages?
+
+What happens to utility costs?
+
+Who pays for road wear, emergency response, water demand, noise, traffic, and environmental monitoring?
+
+What apprenticeships, school partnerships, public-revenue guarantees, community-benefit agreements, or infrastructure upgrades are written into the deal?
+
+What happens when the tax break ends, or if the promised jobs do not arrive?
+
+Who owns the asset, and who owns the consequences?
+
+The future should not arrive as a landlord.
+
+This is supply-chain citizenship. It refuses both childish rejection and childish faith. It says: build, but do not ask the public to subsidize private power while remaining grateful for the privilege of being used.
+
+The same principle applies at household scale. If a tool enters your life, ask what it consumes. If a convenience becomes necessary, ask who controls it. If a cheap service destroys local capacity, ask what happens when the service withdraws. If a platform becomes the only road to customers, ask who owns the road.
+
+Access is not power.
+
+Convenience is not security.
+
+Abundance you cannot claim can become another form of dependence.
+
+Citizens should ask for plain inventories before the speeches.
+
+How much public electricity will this use? How much water? What roads? What emergency capacity? What noise, heat, traffic, tax patience, and administrative attention? How many permanent jobs after construction ends? Who gets trained locally? What happens if the company is sold, automated, merged, subsidized again, or closed?
+
+The point is not to stop the future at the town line. The point is to stop pretending the future is weightless. Every cloud has a building somewhere. Every instant delivery has a warehouse, a driver, a road, a wrist, a scanner, and a schedule. Every frictionless service hides friction in somebody else's day.
+
+Hard times require citizens who can see the physical body of convenience.
+
+Once you see the body, you can ask what it owes.
 
 ## Modest redundancy
 

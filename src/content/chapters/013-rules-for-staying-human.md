@@ -7,7 +7,7 @@ part: "The Renewal"
 tags: ["principles", "hope", "dignity", "field manual"]
 status: "revision"
 summary: "A closing chapter of practical principles for refusing denial, despair, cruelty, and manipulation."
-updated: 2026-05-13
+updated: 2026-05-16
 ---
 
 A bad book lies at the end.
@@ -146,6 +146,18 @@ Some days it will feel noble. Most days it will feel like answering the email, c
 
 There is dignity in unglamorous persistence.
 
+Begin with tomorrow morning.
+
+Not the rest of your life. Not the fate of civilization. Tomorrow morning. What will you do before the noise recruits you? Drink water. Check the account. Pack the lunch. Send the document. Walk outside. Read one page of the agenda. Refuse the first lie. Apologize before pride hardens. Ask for help before drama becomes necessary. Put the receipt in the folder. Call the person whose silence has been bothering you. Turn off the feed before it teaches your nervous system to mistake agitation for knowledge.
+
+Large transformations often enter life disguised as household order.
+
+The tyrant in the distance and the tyrant inside the self both prefer citizens who wake already scattered. A scattered person can be sold almost anything: urgency, conspiracy, revenge, status, distraction, despair. A person who begins the day by touching reality becomes less available for purchase.
+
+Do not despise the small disciplines.
+
+They are how the larger self is protected until the larger fight arrives.
+
 ## Rules for the next bad year
 
 Write your rules before the next bad year arrives. Not a manifesto. A field card.
@@ -172,6 +184,32 @@ They will not prevent grief. They will not stop layoffs, wars, rent increases, i
 Good. Invulnerability is not the human goal.
 
 The goal is to remain governable by conscience when circumstances become loud.
+
+## A field oath for hard times
+
+If the book has a final oath, let it be plain enough to remember under pressure.
+
+Clear eyes.
+
+Clean hands.
+
+Useful loyalties.
+
+Public courage.
+
+Clear eyes mean you do not confuse comfort with truth. You look at the bill, the contract, the budget, the wound, the lie, the incentive, the gate, the danger, and the opportunity without begging reality to flatter you.
+
+Clean hands mean you refuse the cheap permission that crisis offers. You do not let a cruel system recruit you into cruelty. You do not let humiliation make you dishonest. You do not let fear turn neighbors into targets because someone powerful needs a crowd aimed downward.
+
+Useful loyalties mean you belong to people and places in ways that can survive inconvenience. Not every relationship has to be intimate. But some promises must become practical: the ride, the call, the document, the meal, the visit, the meeting, the witness, the apology, the vote, the repair.
+
+Public courage means you carry private discipline beyond the household. You know your numbers, and you also know when the problem has a landlord, a board, a contractor, a statute, an agency, a monopoly, a budget, or a coward in office attached to it. You do not use personal responsibility as a way to excuse public theft. You do not use public injustice as a way to excuse private decay.
+
+This oath is severe because the age is severe.
+
+It is humane because severity without humanity becomes another mask for domination.
+
+Do not become so hard to wound that you become impossible to love.
 
 ## The unbroken citizen
 

@@ -7,7 +7,7 @@ part: "The Shock"
 tags: ["work", "layoffs", "skills", "labor"]
 status: "revision"
 summary: "A chapter on job loss, unstable work, automation pressure, and the practical discipline of becoming harder to discard."
-updated: 2026-05-13
+updated: 2026-05-16
 ---
 
 Work used to vanish slowly enough for a person to hear the floorboards creak.
@@ -123,6 +123,50 @@ The worker's duty is readiness.
 > The worker alone must build proof, skill, savings, and options. But the worker alone is not the whole story. There are moments when dignity requires organization, when scattered fear has to become a line no spreadsheet can cross without cost.
 >
 > Hard times punish sentimentality. They also punish isolation. Solidarity is not a slogan if it can count, wait, strike, negotiate, and win.
+
+## Productivity without leverage
+
+The new danger is not only that machines will make workers useless.
+
+The subtler danger is that machines will make workers more useful and less powerful at the same time.
+
+A mid-level analyst learns the new tool before anyone asks. Reports that took three days now take one afternoon. Presentations sharpen. Drafts improve. The team looks miraculous for two quarters. Management praises agility. Then the department is cut in half because the miracle has become evidence. The tool did not replace the worker directly. It proved that fewer workers could be asked to carry more output.
+
+This is the trap of productivity without leverage.
+
+Technology is not the enemy. Ignorance of technology is not protection. A worker who refuses to learn the tools of the age may become easier to discard. But a worker who learns them without asking who owns the gain may become a volunteer in his own weakening.
+
+Ask the harder questions.
+
+If this tool doubles output, who captures the surplus?
+
+If the team becomes faster, does the team gain bargaining power, equity, profit sharing, shorter hours, higher pay, better staffing, or only higher expectations?
+
+If the software learns from your labor, does your position become stronger, or does your labor become training data for a system owned elsewhere?
+
+If management says automation will remove drudgery, what written guarantee prevents drudgery from being replaced by layoffs?
+
+If a company calls the future inevitable, who negotiated the terms of inevitability?
+
+The worker's answer cannot be nostalgia. The loom is not going back into the barn. The spreadsheet is not going back into the drawer. Artificial intelligence, robotics, platforms, analytics, and automated decision systems will keep entering workplaces because they answer real pressures: speed, cost, scale, error reduction, customer expectation, investor demand.
+
+The question is whether ordinary people enter that future as owners, bargaining units, partners, skilled independents, or replaceable operators of systems they do not control.
+
+This is why portable skill is necessary but insufficient. Learn the tool. Keep proof. Build judgment the tool cannot simulate cheaply: trust, taste, context, ethics, coordination, customer knowledge, craft memory, crisis response, and the ability to decide what should not be automated. But also build leverage with others. A solitary worker may become talented and still disposable. Workers who compare notes can see patterns. Workers who organize can negotiate terms. Workers who understand ownership can ask for claims, not only access.
+
+Do not become anti-technology.
+
+Become anti-disposability.
+
+The practical habit is to keep a leverage ledger.
+
+Once a month, write down what new tool entered your work, what it changed, and who gained from the change. Did it save time? For whom? Did it remove a task you hated, or did it compress three jobs into one? Did it make your work visible enough to prove your value, or visible enough to be measured without context? Did it create a skill you can carry, or only train you to operate a system owned by someone else?
+
+Then write down your claims. Not complaints. Claims. I can now produce this report faster. I reduced this error rate. I trained these people. I know this customer base. I can explain this process. I can maintain trust during pressure. I can use the machine, but I am not the machine.
+
+Workers often lose ground because the story of productivity is written above them. The dashboard says output rose. The budget says headcount can fall. The investor call says efficiency improved. The worker must learn to write a counter-record: here is the human judgment beneath the number, here is the risk of cutting it, here is the value we created, here is what we should receive in return.
+
+If the future is going to measure you, measure back.
 
 ## Build a portable life
 

@@ -7,7 +7,7 @@ part: "The Citizen's Discipline"
 tags: ["war", "propaganda", "energy", "veterans"]
 status: "revision"
 summary: "A chapter on the domestic second-order effects of war and the citizen's duty to ask who benefits, who pays, and what is being normalized."
-updated: 2026-05-12
+updated: 2026-05-16
 ---
 
 The first notice is not a missile.
@@ -51,6 +51,40 @@ A necessary alliance can still contain waste.
 A real threat can still be used to silence unrelated dissent.
 
 A serious people must be capable of two thoughts at once.
+
+## The war that became a bill
+
+Sometimes war enters a household without uniforms.
+
+It enters through the gas pump. Through heating oil. Through insurance. Through the grocery aisle when grain, fertilizer, shipping, fuel, or currency shocks travel quietly into the price of bread. Through a cyberattack that turns a hospital, pipeline, school district, or payment system into a lesson in invisible infrastructure. Through a nephew deployed far away while his mother learns to sleep with the phone close. Through a classroom where children repeat words they heard adults use about people they have never met.
+
+It enters through a town budget that suddenly speaks the language of security. Through police equipment, emergency planning, contractor proposals, threat briefings, grants, drills, flags, ceremonies, and speeches that make dissent feel rude. It enters through veterans waiting for appointments after the public has moved on to the next cause. It enters through refugees who arrive carrying grief into communities already short on housing, translators, jobs, and patience.
+
+The war that became a bill may not say war on the envelope.
+
+It may say utility adjustment, insurance premium, security fee, supplemental appropriation, emergency procurement, family leave, school conflict, medical backlog, overtime, debt service, or donation request.
+
+The citizen should learn to read these translations.
+
+If a policy is worth supporting, it should survive adult accounting. What does it cost? Who pays first? Who profits early? Who is cared for late? What civil power expands during the emergency? What oversight follows the money? What happens to veterans, refugees, and ordinary taxpayers after the heroic language has served its purpose?
+
+Sober consent is not coldness.
+
+It is respect for consequence.
+
+> **Field Card: Consent Under Pressure**
+>
+> Before cheering a war measure, ask what is being requested, what is being hidden, and what would count as success.
+>
+> Before mocking doubt, ask whether doubt is cowardice or bookkeeping.
+>
+> Before repeating a slogan, ask who wrote it, who benefits from it, and whether it would sound the same if spoken to a nineteen-year-old recruit, a wounded veteran, a refugee mother, a taxpayer, and a child hearing sirens on the news.
+>
+> Before accepting the word temporary, ask what mechanism returns power to ordinary law.
+>
+> Before accepting the word sacrifice, ask whose household will perform it first.
+
+These questions do not answer every crisis. They slow the stampede. They remind a free people that consent is not a mood created by flags, fear, and scrolling footage. Consent is judgment under pressure. It requires information, limits, memory, and a willingness to care about the people whose names will not appear in the speech.
 
 ## The business of instability
 

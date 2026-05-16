@@ -7,7 +7,7 @@ part: "The Citizen's Discipline"
 tags: ["mutual aid", "community", "trust", "local resilience"]
 status: "revision"
 summary: "A chapter on practical mutual aid, local trust, burnout, freeloading, conflict, and the discipline of repeated reliability."
-updated: 2026-05-12
+updated: 2026-05-16
 ---
 
 The first rescue is often small enough to miss.
@@ -195,6 +195,44 @@ There is an old dignity in being both giver and receiver. Hard times will put mo
 A healthy mutual-aid culture teaches people how to ask before disaster and how to give without possession.
 
 A useful mutual-aid group needs five plain rules: specific commitments, written contact lists, rotating work, private hardship kept private, and a way to say no before resentment becomes policy.
+
+## Ten people within reach
+
+Modern loneliness has a strange disguise: audience.
+
+A person may have hundreds of contacts, thousands of followers, coworkers in group chats, old classmates in the phone, and still have no one who can arrive with a ride, a ladder, a meal, a witness, a printer, a form, a calm voice, or two hours of childcare.
+
+An audience watches your life.
+
+A community can intervene in it.
+
+The practical exercise is simple enough to make people uncomfortable: name ten people within reach.
+
+Not ten best friends. Not ten people who agree with you. Ten people who could become part of a practical circle of limited trust.
+
+Who could you call if the car died?
+
+Who would notice if the elder next door stopped opening the blinds?
+
+Who has a truck, tools, language skills, medical training, paperwork knowledge, childcare flexibility, cooking capacity, a printer, a generator, a spare room, a calm temperament, or a habit of telling the truth?
+
+Who could call you?
+
+Who would you actually answer?
+
+Write the names down. Then do one small thing that makes the list less imaginary. Return a borrowed tool. Bring extra soup. Ask for the phone number before the storm. Introduce yourself to the neighbor whose name you should already know. Offer a specific trade: "If your basement floods, I can help haul. If my mother needs a ride, could I call you?"
+
+This is not networking. Networking often asks, "How can this person advance me?" Mutual aid asks, "What can we reliably do for one another without pretending to be family?"
+
+The list will also tell the truth about you.
+
+If every name on it is someone you would call but rarely serve, the circle is extraction wearing friendly clothes. If every name is someone you serve but never trust with your own need, the circle may be pride disguised as generosity. If every name agrees with you about everything, you may have built an audience with errands. If no one on the list is older, younger, poorer, richer, more skilled, more rooted, or more connected than you are, the circle may be too narrow for a real storm.
+
+Limited trust grows by exchange. Not transaction in the cold sense. Exchange in the human sense: I saw you show up, and you saw me show up. I kept one confidence. You returned one tool. I did not turn your need into gossip. You did not make my weakness your property. A community forms when enough people have small proof that help will not become humiliation.
+
+That proof is more valuable than agreement.
+
+Hard times will expose the difference.
 
 ## The strength beside the household
 
