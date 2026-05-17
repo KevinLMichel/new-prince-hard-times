@@ -518,6 +518,8 @@ blockquote {
 .print-endnote-group {
   break-inside: avoid;
   margin-top: 0.22in;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .print-endnote-group h2 {
@@ -534,4 +536,15 @@ blockquote {
 
 .print-endnote-group li {
   margin-bottom: 0.06in;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.bibliography-section .print-endnote-group {
+  font-size: 9.6pt;
+  line-height: 1.36;
+}
+
+.bibliography-section .print-endnote-group li {
+  hyphens: none;
 }

@@ -72,7 +72,7 @@ await run(nodeCommand, [
   "build",
   coverInput,
   "-s",
-  "11.6533in,8.75in",
+  "11.795in,8.75in",
   "-o",
   coverPath,
   "--title",

@@ -1,5 +1,5 @@
 @page {
-  size: 11.6533in 8.75in;
+  size: 11.795in 8.75in;
   margin: 0;
 }
 
@@ -22,7 +22,7 @@
 
 html,
 body {
-  width: 11.6533in;
+  width: 11.795in;
   height: 8.75in;
   margin: 0;
   padding: 0;
@@ -36,7 +36,7 @@ body {
 
 .cover-sheet {
   position: relative;
-  width: 11.6533in;
+  width: 11.795in;
   height: 8.75in;
   overflow: hidden;
   background:
@@ -176,7 +176,7 @@ body {
 .spine {
   left: 5.625in;
   top: 0.125in;
-  width: 0.4033in;
+  width: 0.545in;
   height: 8.5in;
   background:
     linear-gradient(180deg, rgba(159, 67, 43, 0.88), rgba(34, 37, 31, 0.98) 24%, rgba(34, 37, 31, 0.98) 76%, rgba(72, 81, 58, 0.9)),
@@ -219,7 +219,7 @@ body {
 }
 
 .front-cover {
-  left: 6.0283in;
+  left: 6.17in;
   top: 0.125in;
   width: 5.5in;
   height: 8.5in;
