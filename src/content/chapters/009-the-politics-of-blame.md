@@ -7,7 +7,7 @@ part: "Part III - Build Useful Loyalties"
 tags: ["politics", "scapegoats", "media", "manipulation"]
 status: "revision"
 summary: "A chapter on recognizing manipulation, divide-and-rule tactics, and the cheap satisfaction of blame without strategy."
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 Pain wants a face.
@@ -178,31 +178,19 @@ Influence is converted into more pain.
 
 The loop is not mystical. It is business.
 
+*I saw a shop where anger bought the light;*<br />
+*each screen a window, every window paid;*<br />
+*a clerk kept sorting faces into right.*
+
+*He named no rule, no ledger, and no trade;*<br />
+*only a neighbor fitted for the blame;*<br />
+*the room felt full, the wound remained unweighed.*
+
 ## Anger with handles
 
-The answer is not to become calm in the face of injustice.
+The answer is not to become calm in the face of injustice. That is too convenient for the unjust.
 
-That is too convenient for the unjust.
-
-The answer is to give anger handles.
-
-Before accepting a target, ask:
-
-Who benefits from my anger?
-
-What evidence would change my mind?
-
-Am I being asked to hate a person, a class of people, or a specific abuse of power?
-
-Does this explanation identify a mechanism, or only an enemy?
-
-What repair follows from this blame?
-
-Who is missing from the story?
-
-What would the accused say, and has anyone checked?
-
-Am I being made braver, or merely louder?
+I do not want the anger sedated. That is the old trick: call every hot moral perception hysteria, call every demand for accountability extremism, call every raised voice dangerous until only the comfortable are allowed to sound reasonable. No. Anger has information in it. But information is not command. Anger says something is injured; it does not automatically know who cut it, who benefits, what repair costs, or which door opens. So slow the hand before it grabs the nearest enemy. Make the anger carry evidence. Make it name the mechanism. Make it survive one honest question from someone who is not already clapping.
 
 Use the blame test:
 

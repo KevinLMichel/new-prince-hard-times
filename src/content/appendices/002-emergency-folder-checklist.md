@@ -3,19 +3,24 @@ title: "Emergency Folder Checklist"
 order: 2
 summary: "Documents, contacts, and records to keep in one place before pressure rises."
 relatedChapters: [3, 6, 12]
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 The emergency folder is not paranoia. It is mercy for future-you.
 
 ## Core documents
 
-- IDs, birth certificates, Social Security cards, immigration papers where applicable.
-- Insurance cards, policy numbers, and claim contacts.
-- Lease, mortgage, car title, registration, and important contracts.
-- Medication list, allergies, doctors, pharmacy, and emergency contacts.
-- Recent pay stubs, tax records, benefit letters, and bank information.
-- School contacts, elder contacts, childcare contacts, and pet records if needed.
+| Document | Have it? | Location / notes |
+| --- | --- | --- |
+| IDs, birth certificates, Social Security cards, immigration papers where applicable | &nbsp; | &nbsp; |
+| Insurance cards, policy numbers, and claim contacts | &nbsp; | &nbsp; |
+| Lease, mortgage, car title, registration, and important contracts | &nbsp; | &nbsp; |
+| Medication list, allergies, doctors, pharmacy, and emergency contacts | &nbsp; | &nbsp; |
+| Recent pay stubs, tax records, benefit letters, and bank information | &nbsp; | &nbsp; |
+| School contacts, elder contacts, childcare contacts, and pet records if needed | &nbsp; | &nbsp; |
+| Password recovery / two-factor backup plan | &nbsp; | &nbsp; |
+| Missing document to request first | &nbsp; | &nbsp; |
+| Missing document to request second | &nbsp; | &nbsp; |
 
 ## Digital backup
 

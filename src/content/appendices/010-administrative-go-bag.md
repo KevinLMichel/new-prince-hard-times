@@ -3,7 +3,7 @@ title: "Administrative Go-Bag"
 order: 10
 summary: "A document and process kit for portals, benefits, appeals, forms, and institutional gates."
 relatedChapters: [12]
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 The gate is often boring. Prepare anyway.
@@ -21,7 +21,16 @@ The gate is often boring. Prepare anyway.
 
 | Date | Office | Person | Reference number | Promise | Deadline |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
 ## First move
 

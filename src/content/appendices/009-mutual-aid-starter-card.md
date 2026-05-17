@@ -3,7 +3,7 @@ title: "Mutual Aid Starter Card"
 order: 9
 summary: "Rules for beginning a small mutual-aid circle without romance or chaos."
 relatedChapters: [10]
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 Start small enough to keep promises.
@@ -14,7 +14,11 @@ Name five people who can exchange practical help without pretending to be family
 
 | Person | Capacity | Boundary | Emergency contact? |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
 ## Rules
 

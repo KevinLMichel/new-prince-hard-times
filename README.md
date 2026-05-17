@@ -29,7 +29,7 @@ npm run book:pdf
 
 The script builds the hidden `/book-print` route, creates `public/downloads/the-new-prince-hard-times-kevin-l-michel.pdf`, and rebuilds the static site so `dist/downloads/` contains the committed PDF asset.
 
-Current regenerated interior page count: 230 pages. Recalculate the paperback cover spine before final KDP upload if the interior page count changes.
+Current regenerated interior page count: 232 pages. Recalculate the paperback cover spine before final KDP upload if the interior page count changes.
 
 ## Paperback Cover Export
 

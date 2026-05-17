@@ -3,14 +3,23 @@ title: "Local Power Map"
 order: 11
 summary: "A worksheet for finding who controls budgets, rules, meetings, public records, and local decisions."
 relatedChapters: [14]
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 Power is less magical once it has an address.
 
 | Issue | Who controls it? | Meeting date | Budget/rule | Public record needed | Ally |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
 ## Offices to map
 

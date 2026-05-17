@@ -3,7 +3,7 @@ title: "Pantry and 72-Hour Audit"
 order: 6
 summary: "A boring preparedness worksheet for food, water, medicine, power, and local backup."
 relatedChapters: [7]
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 Preparedness should be boring.
@@ -12,16 +12,18 @@ Preparedness should be boring.
 
 Can the household do each of these for three disrupted days?
 
-- Eat familiar food.
-- Drink safe water.
-- Charge phones.
-- Light rooms.
-- Access medicine.
-- Keep basic hygiene.
-- Find documents.
-- Contact help.
-- Cook or eat without normal power.
-- Check on vulnerable neighbors.
+| Need | Ready? | Gap / next purchase or action |
+| --- | --- | --- |
+| Eat familiar food | &nbsp; | &nbsp; |
+| Drink safe water | &nbsp; | &nbsp; |
+| Charge phones | &nbsp; | &nbsp; |
+| Light rooms | &nbsp; | &nbsp; |
+| Access medicine | &nbsp; | &nbsp; |
+| Keep basic hygiene | &nbsp; | &nbsp; |
+| Find documents | &nbsp; | &nbsp; |
+| Contact help | &nbsp; | &nbsp; |
+| Cook or eat without normal power | &nbsp; | &nbsp; |
+| Check on vulnerable neighbors | &nbsp; | &nbsp; |
 
 ## Pantry rule
 

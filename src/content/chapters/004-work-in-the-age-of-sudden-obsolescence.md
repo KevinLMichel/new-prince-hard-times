@@ -7,7 +7,7 @@ part: "Part II - Fortify the Household"
 tags: ["work", "layoffs", "skills", "labor"]
 status: "revision"
 summary: "A chapter on job loss, unstable work, automation pressure, and the practical discipline of becoming harder to discard."
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 Work used to vanish slowly enough for a person to hear the floorboards creak.
@@ -130,7 +130,7 @@ The new danger is not only that machines will make workers useless.
 
 The subtler danger is that machines will make workers more useful and less powerful at the same time.
 
-A mid-level analyst learns the new tool before anyone asks. Reports that took three days now take one afternoon. Presentations sharpen. Drafts improve. The team looks miraculous for two quarters. Management praises agility. Then the department is cut in half because the miracle has become evidence. The tool did not replace the worker directly. It proved that fewer workers could be asked to carry more output.
+The machine does not always arrive as a replacement. Sometimes it arrives as a helper, which is more confusing. It makes the work smoother, faster, cleaner, almost flattering at first. Look at us, adapting. Look at us, modern. Then the miracle gets counted. The saved hour becomes a staffing argument. The faster report becomes proof that the old timeline was indulgent. The worker learns the tool, feeds the tool, trains the tool, and then hears the tool discussed as if it appeared by weather. This is the insult inside productivity without leverage: the human improvement disappears into the corporate result.
 
 This is the trap of productivity without leverage.
 
@@ -167,6 +167,14 @@ Then write down your claims. Not complaints. Claims. I can now produce this repo
 Workers often lose ground because the story of productivity is written above them. The dashboard says output rose. The budget says headcount can fall. The investor call says efficiency improved. The worker must learn to write a counter-record: here is the human judgment beneath the number, here is the risk of cutting it, here is the value we created, here is what we should receive in return.
 
 If the future is going to measure you, measure back.
+
+*I met a worker at the locked glass door;*<br />
+*his badge blinked red; the lobby kept its sheen;*<br />
+*he held his lunch and asked what work was for.*
+
+*The elevator hummed, indifferent and clean;*<br />
+*outside, the bus kept time along the lane;*<br />
+*he walked home carrying proof no one had seen.*
 
 ## Build a portable life
 

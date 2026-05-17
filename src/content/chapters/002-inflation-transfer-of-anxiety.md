@@ -7,7 +7,7 @@ part: "Part I - See the Crisis"
 tags: ["inflation", "household", "prices", "trust"]
 status: "revision"
 summary: "A full draft on how price pressure becomes household discipline, political anger, and a transfer of risk."
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 Inflation does not arrive like a thief in a mask.
@@ -97,6 +97,8 @@ Prices are not magic.
 They are signals, but they are also stories.
 
 A price tag carries the history of fuel, rent, wages, credit, taxes, regulation, weather, shipping, war, speculation, insurance, debt, spoilage, theft, technology, corporate strategy, and human fear. By the time a tomato reaches the bin, it has passed through more hands and systems than most shoppers have time to imagine.
+
+The mind wants one clean culprit because one clean culprit feels manageable. A villain you can point at. A lever you can imagine pulling. But the price tag is not a confession note. It is a pileup. Fuel, drought, debt, shipping, wages, executive nerve, shareholder hunger, war, weather, policy lag, consumer panic, and the quiet permission crisis gives to anyone with pricing power. Not all guilt is equal. Not all profit is theft. Not all explanation is excuse. But the household does not experience nuance as nuance. It experiences nuance as the number at checkout going up again while the person explaining it sounds strangely calm.
 
 Inflation happens when the general pressure on prices rises and keeps rising. Not one item. Not one bad crop. Not one greedy seller. A broader pressure.
 

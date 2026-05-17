@@ -3,21 +3,25 @@ title: "Household War Room Worksheet"
 order: 1
 summary: "A one-page operating picture for cash, dates, risks, and first moves."
 relatedChapters: [1, 3]
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 Use this when the household feels foggy. The goal is not shame. The goal is command.
 
 ## The page
 
-| Line | Write it down |
+Use the notes column for actual numbers, names, dates, and next moves.
+
+| Line | Notes |
 | --- | --- |
-| Cash available | Checking, cash, savings, payment apps. |
-| Income expected | Date, amount, source, confidence. |
-| Due dates | Rent/mortgage, utilities, debt, insurance, medicine, childcare. |
-| Threats | Anything that can remove shelter, income, transportation, health, or legal safety. |
-| Calls to make | Landlord, lender, utility, employer, benefits office, clinic, legal aid. |
-| People to tell | The calm people who can help before the crisis becomes dramatic. |
+| Cash available: checking, cash, savings, payment apps | &nbsp; |
+| Income expected: date, amount, source, confidence | &nbsp; |
+| Due dates: rent/mortgage, utilities, debt, insurance, medicine, childcare | &nbsp; |
+| Threats: anything that can remove shelter, income, transportation, health, or legal safety | &nbsp; |
+| Calls to make: landlord, lender, utility, employer, benefits office, clinic, legal aid | &nbsp; |
+| People to tell: the calm people who can help before the crisis becomes dramatic | &nbsp; |
+| First seven days | &nbsp; |
+| Next thirty days | &nbsp; |
 
 ## Rules
 

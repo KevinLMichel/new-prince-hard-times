@@ -7,7 +7,7 @@ part: "Part IV - Practice Local Power"
 tags: ["principles", "hope", "dignity", "field manual"]
 status: "revision"
 summary: "A closing chapter of practical principles for refusing denial, despair, cruelty, and manipulation."
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 A bad book lies at the end.
@@ -204,6 +204,8 @@ Clean hands mean you refuse the cheap permission that crisis offers. You do not 
 Useful loyalties mean you belong to people and places in ways that can survive inconvenience. Not every relationship has to be intimate. But some promises must become practical: the ride, the call, the document, the meal, the visit, the meeting, the witness, the apology, the vote, the repair.
 
 Public courage means you carry private discipline beyond the household. You know your numbers, and you also know when the problem has a landlord, a board, a contractor, a statute, an agency, a monopoly, a budget, or a coward in office attached to it. You do not use personal responsibility as a way to excuse public theft. You do not use public injustice as a way to excuse private decay.
+
+An oath is not a mood. It is a small shelter built before the weather turns.
 
 This oath is severe because the age is severe.
 

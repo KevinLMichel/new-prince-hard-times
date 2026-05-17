@@ -3,14 +3,23 @@ title: "Debt Threat Ranking Sheet"
 order: 4
 summary: "Rank debts by consequence, interest, deadline, and negotiability."
 relatedChapters: [3, 5]
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 Debt is loudest when it is vague. Make it visible.
 
 | Debt | Balance | Minimum | Interest/fee | Due date | Consequence if missed | Can call? |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
 ## Rank by danger
 
